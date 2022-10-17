@@ -160,6 +160,7 @@
       figure.mb-4
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura2.png', alt='diagrama')
     p.mb-4 Hablemos sobre cada una de ellas:
+    
     .row.justify-content-center.mb-4
       .col-md-8 
         TabsA.color-acento-contenido.mb-4

@@ -33,8 +33,9 @@
   background-color: rgba(248,83,22,0.15)!important
 
 .color-fondo-terciario
-  background-color: #ACD382 !important
-
+  background-color: #75B62F !important
+.img-infografica__card
+  color: black !important
 .color-fondo2
   background-color: $color-secundario
 
@@ -68,6 +69,53 @@
 
   @media (max-width: 1000px)
     padding-right: 2rem
+
+
+.crd
+  &.brd--rad
+    border-radius: 20px 
+  &.crd--grayGrad
+    padding: 2rem
+    width: 425px
+    height: 100%
+    background-color: $color-acento-contenido
+    h4, p
+        color: white 
+    border-radius: 15px    
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+    &:hover      
+      background: linear-gradient(180deg, #DCE736 0%, #DCE736 100%)
+      h4, p
+        color: black 
+      .bottomCircle
+        &::before
+          background-color: #FED981
+  &.crd--blue
+    background-color: #B1DBEA
+
+  &.crd--border
+    border: 4px solid $color-acento-botones
+    border-radius: 20px
+
+.bottomCircle
+  top: 22%
+  left: 50%
+  transform: translate(-50%,-50%)
+  width: 125px
+  height: 125px
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%,-50%)
+    width: 115px
+    height: 115px
+    background-color: #116EB9
+    border-radius: 999px
 
 .crd--first, .crd--last
   &::before 
@@ -127,6 +175,33 @@
 
 .tabs-c__tab--active
   font-weight: bold !important;
+  
+///tarjetas hover
 
-.test
-  text-align: right !important;
+.crd_hover_txt
+  position: relative
+  padding: 0!important
+  overflow: hidden!important
+  background-color: #F8FAD6
+  width: 350px !important
+  height: 300px !important
+  &:hover
+    .crd_hover_txt--body
+      transform: translateY(0)
+      background-color: #dce736
+  &--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0
+    transition: all .5s ease-in-out
+    transform: translateY(calc(100% - 3.85rem))
+    text-align: center !important;
+    background-color: #dce736
+    z-index: 2
+  &--img
+    position: relative
+    z-index: 1
+    top: -1%
+    left: 0%
+    width: 350px !important
+    height: 300px !important
