@@ -149,31 +149,120 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Concepto de innovación',
+      referencia:
+        'SolucionaEmpresarialTV. (2016).<em> Qué es el modelo Canvas</em> (video). YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=SN0BL3S7bk0',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Concepto de innovación',
+      referencia:
+        'Design Thinking España- (2020).<i> Metodología Design Thinging. ¡Aprende a aplicar sus fases con ejemplos</i> (video). YouTube. ',
+      tipo: 'Video',
+      descarga: 'https://www.youtube.com/watch?v=_ul3wfKss58',
+    },
+    {
+      tema: 'La creatividad',
+      referencia:
+        'Economía Naranja. (s.f.).<em> ABC Economía Naranja.</em> Economía Naranja',
+      tipo: 'Página web',
+      descarga: 'https://economianaranja.gov.co/abc-economia-naranja/',
+    },
+    {
+      tema: 'La creatividad',
+      referencia:
+        'Design Thinking España- (2021).<i> Qué es el brainstorming y para qué sirve</i>(video). YouTube.',
+      tipo: 'Video',
+      descarga: 'https://www.youtube.com/watch?v=_4OlfGwxydA',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Creatividad',
+      significado:
+        'puede entenderse como la fabricación de una idea o un concepto, un descubrimiento original que ocasiona la satisfacción del generador de una idea y de los usuarios, o beneficiarios, de su utilidad.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: '<em>Desing Thinking</em>',
+      significado:
+        'es un método para la generación de ideas innovadoras que focaliza su eficacia en entender y solucionar las necesidades de los usuarios, clientes o consumidores.',
+    },
+    {
+      termino: 'Emprendimiento',
+      significado:
+        'puede concebirse como ese impulso para materializar una idea a través del descubrimiento de oportunidades y de la implementación de modelos creativos e innovadores.',
+    },
+    {
+      termino: 'Innovación',
+      significado:
+        'hace alusión a la llegada de algo nuevo, de algo que no existía, de modificación, y ha sido muy ligada al ámbito empresarial, concebida como un proceso estratégico.',
+    },
+    {
+      termino: 'Investigación y el desarrollo (I+D)',
+      significado:
+        'es el proceso de investigación en conocimientos técnicos y científicos, con el objetivo de desarrollar nuevos productos, procesos o materiales a partir de tecnologías aplicadas.',
+    },
+    {
+      termino: 'Lista verbal de verificación <em>(Scamper)</em>',
+      significado:
+        'confluencia de varias técnicas y sirve para mejorar productos o servicios a través del planteamiento de un listado de preguntas que incitan a pensar en nuevas alternativas.',
+    },
+    {
+      termino: 'Lluvia de ideas <em>(Brainstorming)</em>',
+      significado:
+        'consiste en reunir un equipo (estratégico) de personas para que participen en la generación de ideas, luego del planteamiento claro de un propósito, situación o necesidad.',
+    },
+    {
+      termino: 'Mapa mental',
+      significado:
+        'en esta técnica se ilustra o plasma el problema o reto en el centro, y de allí se desprenden los temas relacionados con la intención a solucionar, dando una estructura; de estos temas surgen imágenes o palabras clave que van buscando relación con el propósito origen.',
+    },
+    {
+      termino: 'Mercado',
+      significado:
+        'es un conjunto de transacciones de procesos o intercambio de bienes o servicios entre individuos, que llegan a acuerdo entre el producto o servicio y el precio que se cobra por éste.',
+    },
+    {
+      termino: 'Oferta',
+      significado:
+        'son aquellos bienes y servicios que los oferentes (empresas-organizaciones) están dispuestos a poner a la venta en el mercado a unos precios específicos.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Cortés Sánchez, J. M. (2017). Sistema de gestión de calidad: ISO 9001:2015. Ediciones de la U, Bogotá. ',
+      link: '',
+    },
+    {
+      referencia:
+        'De Pablo, F. y Lasa, M. (2017). Dibújalo: Innova, crea y comunica de manera visual. Editorial LID.',
+      link: '',
+    },
+    {
+      referencia:
+        'Galván, L. (2017). Creatividad para el cambio: innovación para la vida y la empresa. Ecoe Ediciones, Bogotá. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Lussier, R. N. y Achuan, C. F.(2016). Liderazgo: teoría, aplicación y desarrollo de habilidades. Cengage Learning',
+      link: '',
+    },
+    {
+      referencia:
+        'Moote, I. (2014). DESING THINKING: para la innovación estratégica. Empresa activa.',
+      link: '',
+    },
+    {
+      referencia:
+        'Parra Alviz, M., López Posada, L. M. & Rubio Guerrero, G. (2017). Emprendimiento y creatividad: aspectos esenciales para crear empresa. Ecoe Ediciones, Bogotá',
+      link: '',
+    },
+    {
+      referencia:
+        'Riveros Tovar, P. (2019). Coolhunting, tendencias e innovación: a la cacería del futuro. Ediciones de la U, Bogotá. ',
       link: '',
     },
   ],
@@ -201,25 +290,25 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Innovative Education',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Innovative Education',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Innovative Education',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Innovative Education',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

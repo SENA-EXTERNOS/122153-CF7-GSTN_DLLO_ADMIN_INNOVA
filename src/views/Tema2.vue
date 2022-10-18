@@ -53,25 +53,21 @@
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Originalidad")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Originalidad 
                   p Hace referencia a la producción o generación de ideas únicas o poco usuales que representan novedad. 
                 
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Flexibilidad")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Flexibilidad
                   p Es la habilidad para producir una cantidad significativa de ideas desde diferentes perspectivas o puntos de vista.  
                 
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Fluidez")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Fluidez
                   p Es la capacidad o habilidad para producir ideas que cumplan con los requisitos en un tiempo limitado.
               
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Relevancia")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Relevancia
                   p Es el elemento asociado con el detalle y la profundidad; significa investigar y expandir una idea dando la explicación enriquecida de su existencia y caracterizándola de forma más completa que la original.  
     h3
       i#t_2_1.fas.fa-square.me-3.cuadrado.mt-4 
@@ -88,7 +84,6 @@
       .py-3.py-md-4(titulo="Lluvia de ideas (<i>Brainstorming</i>)")
         .row.justify-content-around.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 Lluvia de ideas (<i>Brainstorming</i>)
             p Es una de las técnicas más reconocidas y utilizadas en materia de procesos creativos, consiste en reunir un equipo (estratégico) de personas para que participen en la generación de ideas, luego del planteamiento claro de un propósito, situación o necesidad. Se debe igualmente asegurar un ambiente apto para la creatividad y finalmente, una vez evaluadas las ideas y sus derivaciones, dar retroalimentación a los participantes.
           .col-md-6
             figure
@@ -98,7 +93,6 @@
       .py-3.py-md-4(titulo="Lista verbal de verificación (<i>Scamper</i>)")
         .row.justify-content-around.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 Lista verbal de verificación (<i>Scamper</i>)
             p Esta técnica resulta ser la confluencia de varias técnicas y sirve para mejorar productos o servicios a través del planteamiento de un listado de preguntas que incitan a pensar en nuevas alternativas: sustituir, adaptar, combinar, modificar, otros usos, eliminar o reordenar.
           .col-md-6
             figure
@@ -107,7 +101,6 @@
       .py-3.py-md-4(titulo="Estimulación de imágenes")
         .row.justify-content-around.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 Estimulación de imágenes
             p Una técnica utilizada para generar nuevas ideas, donde el equipo de personas seleccionado observa una serie de imágenes y lo relacionan con la información del problema o la situación a resolver.
           .col-md-6
             figure
@@ -116,7 +109,6 @@
       .py-3.py-md-4(titulo="Mapa mental")
         .row.justify-content-around.align-items-center
           .col-md-6.mb-4.mb-md-0
-            h4 Mapa mental
             p Es una técnica gráfica e ilustrativa muy útil para la generación de nuevas ideas por asociación y para dar orden a la información. En esta técnica se ilustra o plasma el problema o reto en el centro, y de allí se desprenden los temas relacionados con la intención a solucionar, dando una estructura; de estos temas surgen imágenes o palabras clave que van buscando relación con el propósito origen.
           .col-md-6
             figure
@@ -209,36 +201,30 @@
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Artes visuales")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Artes visuales 
                   p Pintura, escultura, fotografía, video arte y <i>performance</i>. 
                 
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Artes escénicas")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Artes escénicas
                   p Conciertos, ópera, circo, orquestas, danza y teatro.  
                 
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Turismo y patrimonio cultural")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Turismo y patrimonio cultural
                   p Museos, cocinas tradicionales, artesanías, parques naturales, bibliotecas, archivos, festivales y carnavales.
               
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Educación")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Educación
                   p Formación en oficios de las artes y el patrimonio, formación en prácticas artísticas, formación en gestión y emprendimiento cultural. 
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Gastronomía")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Gastronomía
                   p Cocinas tradicionales y bebidas alcohólicas tradicionales. 
               
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Artesanías")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Artesanías
                   p Cocinas tradicionales y bebidas alcohólicas tradicionales. 
       
       .col-md-4.col-lg-4(style="margin-top: 80px; ")
@@ -254,19 +240,16 @@
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Medios digitales")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Medios digitales 
                   p Videojuegos, contenidos interactivos audiovisuales, plataformas digitales, creación de software, creación de apps (código programación) y animación. Agencias de noticias y otros servicios de información.  
                 
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Diseño")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Diseño
                   p Interiores, artes gráficas e ilustración, joyería, juguetes, industrial (productos), arquitectura, moda y mobiliario.   
                 
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Publicidad")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Publicidad
                   p Servicios de asesoría, productos creativos, producción de material publicitario, utilización de medios de difusión, creación y realización de campañas de publicidad, campañas de mercadeo y otros servicios publicitarios.
     
     p.mb-4 Industrias culturales: 
@@ -277,19 +260,16 @@
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Editorial")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Editorial 
                   p Librerías, libros, periódicos, revistas y literatura.  
                 
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Audiovisual")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Audiovisual
                   p Cine, televisión, video y radio.   
                 
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Fonografía")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Fonografía
                   p Música grabada. 
       .col-md-4.col-lg-4(style="margin-top: 20px; ")
         img(src='@/assets/curso/temas/texto_destacado/img27.png', alt='imagen relacionada')             

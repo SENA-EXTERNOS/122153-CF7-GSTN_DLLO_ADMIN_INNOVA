@@ -99,7 +99,7 @@
         .row.align-items-center
           .col-auto
             figure
-              img(src="@/assets/curso/temas/texto_destacado/img5.svg", alt="alt").img100
+              img(src="@/assets/curso/temas/texto_destacado/img5.svg", alt="imagen relacionada").img100
           .col
             h5 Estrategia ofensiva
             p Se encuentra basada en la tecnología, siempre va punteando y mapeando (investigando), a través de sus recursos, las necesidades del mercado. Sin esperar que se muestren claramente, ya las está atendiendo de manera anticipada, por ende, con participación inicial en el mercado. Una estrategia arriesgada ante la incertidumbre en la respuesta del mercado. 
@@ -107,7 +107,7 @@
         .row.align-items-center
           .col-auto
             figure
-              img(src="@/assets/curso/temas/texto_destacado/img6.svg", alt="alt").img100
+              img(src="@/assets/curso/temas/texto_destacado/img6.svg", alt="imagen relacionada").img100
           .col
             h5 Estrategia defensiva
             p Representa el seguimiento a los líderes de mercado, asumiendo el hecho de no ser los primeros, pero reconociendo que no quieren quedar fuera del mismo. La empresa se aprovecha de un mercado ya identificado y de un producto ya establecido.
@@ -115,7 +115,7 @@
         .row.align-items-center
           .col-auto
             figure
-              img(src="@/assets/curso/temas/texto_destacado/img7.svg", alt="alt").img100
+              img(src="@/assets/curso/temas/texto_destacado/img7.svg", alt="imagen relacionada").img100
           .col
             h5 Estrategia imitativa
             p Como su nombre lo indica, imitan la actuación de otras empresas, requieren de un mínimo nivel de innovación, no se preocupan por liderazgos de otros y suelen concentrarse en las áreas tecnológicas de producción para ahorrar costos. El éxito de las empresas puede estar dado por la disposición de un mercado cautivo y el alcance de la eficacia directiva.
@@ -123,7 +123,7 @@
         .row.align-items-center
           .col-auto
             figure
-              img(src="@/assets/curso/temas/texto_destacado/img8.svg", alt="alt").img100
+              img(src="@/assets/curso/temas/texto_destacado/img8.svg", alt="imagen relacionada").img100
           .col
             h5 Estrategia dependiente
             p Establece relaciones comerciales con empresas clientes. No cuenta con mucha capacidad de negociación y de participación en nuevos mercados por la subcontratación a la que está supeditada. Su estructura no le permite tener progresos significativos en investigación y desarrollo.
@@ -131,7 +131,7 @@
         .row.align-items-center
           .col-auto
             figure
-              img(src="@/assets/curso/temas/texto_destacado/img9.svg", alt="alt").img100
+              img(src="@/assets/curso/temas/texto_destacado/img9.svg", alt="imagen relacionada").img100
           .col
             h5 Estrategia tradicional
             p Hacen siempre lo mismo y de la misma manera, a la espera de que una variable de su cliente o del mercado imponga nuevas características. No se caracteriza por implementar innovación porque regularmente tienen un monopolio en el mercado que hace que sea rentable y no tenga que esforzarse demasiado. 
@@ -139,7 +139,7 @@
         .row.align-items-center
           .col-auto
             figure
-              img(src="@/assets/curso/temas/texto_destacado/img10.svg", alt="alt").img100
+              img(src="@/assets/curso/temas/texto_destacado/img10.svg", alt="imagen relacionada").img100
           .col
             h5 Estrategia oportunista o de nicho
             p Este tipo de estrategia es utilizada comúnmente por competidores pequeños que tienen especialidad en dar atención a nichos de mercado con productos muy específicos y que no representan peligro para los competidores grandes, dado su tamaño y la capacidad de pasar desapercibidos. 
@@ -167,25 +167,21 @@
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Idea")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Idea 
                   p Como fase puede surgir desde varias perspectivas o situaciones identificadas, como por ejemplo, una necesidad insatisfecha, una posibilidad de producto nuevo en el mercado o una solución técnica novedosa. Esta fase requiere recolectar información, la cual puede ser de dos maneras, la específica, participando de talleres o concursos de ideas, o aleatorias, que surgen de la idea de algún colaborador de la empresa o de las opiniones de los clientes. 
                 
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Concepto")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Concepto
                   p Es el punto desde donde se realizan los análisis respectivos, derivados de la fase de generación de ideas. Como parte del análisis integral debe considerarse el mercado potencial, sus necesidades, los clientes, las oportunidades, diferenciación de otros productos, los riesgos y viabilidad económica y técnica. Una herramienta muy útil para esta fase es el modelo de negocio Canvas, debido a que permite conceptualizar de manera más simple y organizada la información para evaluar los segmentos de mercado, el canal de distribución, la fuente de ingresos, la propuesta de valor, la relación con el cliente, entre otros.  
                 
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Solución")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Solución
                   p Se hace el desarrollo y se pone a prueba el producto o servicio; debe garantizarse su funcionalidad y el cumplimiento de la intención.
               
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Mercadeo")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Mercadeo
                   p No se pueden almacenar. La prestación del servicio y el consumo ocurren simultáneamente. Por ejemplo, cuando un mesero atiende en un restaurante, no se puede almacenar o guardar ese servicio. Si un pasaje de avión con fecha cerrada no se usa, se pierde, pues el vuelo se realiza en la fecha y la hora programadas; puede volar en otro momento, pero no se puede repetir ese instante.
       .col-md-4
         img(src='@/assets/curso/temas/texto_destacado/img11.png', alt='imagen relacionada')  
@@ -210,12 +206,14 @@
    
     p.mb-4 El siguiente video responde a uno de los principales interrogantes que se presenta cuando se habla de innovación: ¿cómo se puede definir una estrategia de innovación? Lo invitamos a analizarlo y tener presentes cada una de las ideas allí planteadas durante el estudio de los temas.
     
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4.mb-4
-      .bloque-texto-g__img(
-          :style="{'background-image': `url(${require('@/assets/curso/temas/texto_destacado/img13.png')})`}"
-        )   
-      .bloque-texto-g__texto.p-4
-        p En la fase innovativa es muy importante la validación previa del producto, servicio o proceso, y para ello la metodología <strong>Desing Thinking </strong>aporta información relevante para el lanzamiento final de la propuesta. Para la implementación de esta metodología, seguir la ruta de prototipado es la mejor alternativa. De Pablo y Lassa (2017) indican que “Cuando la información se presenta de forma visual, amplifica hasta un 65 % la capacidad de recordar el mensaje” (p.18).
+    .row.justify-content-around.align-items-center.mb-4
+      .col-lg-9
+        .bloque-texto-h.color-primario.p-3.p-sm-4.p-md-4.mb-4
+          .bloque-texto-h__img(
+              :style="{'background-image': `url(${require('@/assets/curso/temas/texto_destacado/img13.png')})`}"
+            )   
+          .bloque-texto-h__texto.p-4
+            p En la fase innovativa es muy importante la validación previa del producto, servicio o proceso, y para ello la metodología <strong>Desing Thinking </strong>aporta información relevante para el lanzamiento final de la propuesta. Para la implementación de esta metodología, seguir la ruta de prototipado es la mejor alternativa. De Pablo y Lassa (2017) indican que “Cuando la información se presenta de forma visual, amplifica hasta un 65 % la capacidad de recordar el mensaje” (p.18).
     
     p.mb-4 El Design Thinking está compuesto por unas fases, la cuales son:
    
