@@ -123,7 +123,7 @@
     
     p.mb-4 Para dar claridad sobre el tema se presentan los ámbitos de desarrollo para la aplicación de estos conceptos:
 
-    .row.justify-content-around.mb-4
+    .row.justify-content-around.mb-5
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="fade-right")
           .crd_hover_txt--img
@@ -274,28 +274,29 @@
       .col-md-4.col-lg-4(style="margin-top: 20px; ")
         img(src='@/assets/curso/temas/texto_destacado/img27.png', alt='imagen relacionada')             
     
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4.mb-4
-      .bloque-texto-g__img(style="width: 470px ")(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/texto_destacado/img28.png')})`}"
-      )
-      .bloque-texto-g__texto.p-3.mb-4.mt-4
-        ol.lista-ol
-          li 
-            span.fas.fa-check(style='color: #f85316')
-            | Beneficios de carácter social y económico.
-          li 
-            span.fas.fa-check(style='color: #f85316')
-            | Generación o creación de empleo.
-          li 
-            span.fas.fa-check(style='color: #f85316')
-            | Reducción de la brecha social.
-          li 
-            span.fas.fa-check(style='color: #f85316')
-            | Producción de bienes y servicios con alto componente innovativo.
-          li 
-            span.fas.fa-check(style='color: #f85316')
-            | Diferenciación y competitividad en el mercado.
-    
+    .bloque-texto-a.color-primario.p-4.p-md-5.mb-5(style="background-color: #E8E8E8")
+      .row.m-0.align-items-center.justify-content-between
+        .col-lg-5.mb-4.mb-lg-0
+          h2.mb-0 Es importante recordar que hablar del concepto economía naranja, es abordar una industria que ha venido ganando relevancia para el sector económico. Sus beneficios han estado enmarcados en: 
+        .col-lg-7
+          .bloque-texto-a__texto.p-4
+            ol.lista-ol
+              li 
+                span.fas.fa-check(style='color: #f85316')
+                | Beneficios de carácter social y económico.
+              li 
+                span.fas.fa-check(style='color: #f85316')
+                | Generación o creación de empleo.
+              li 
+                span.fas.fa-check(style='color: #f85316')
+                | Reducción de la brecha social.
+              li 
+                span.fas.fa-check(style='color: #f85316')
+                | Producción de bienes y servicios con alto componente innovativo.
+              li 
+                span.fas.fa-check(style='color: #f85316')
+                | Diferenciación y competitividad en el mercado.
+
     .row.justify-content-around.align-items-center.mb-4
       .col-lg-9
         .cajon.color-acento-botones.color-fondo-secundario.p-4.mb-4.mt-4

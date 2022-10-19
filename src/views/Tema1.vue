@@ -39,44 +39,45 @@
 
     p.mb-4 Es así como dentro del proceso de innovación podría hablarse de varias perspectivas y enfoques, teniendo en cuenta las características e intereses de la empresa. Entre los tipos de innovación se encuentran:
    
-    .mx-auto.col-md-12.mb-4
+    .mx-auto.col-md-9.mb-4
       .titulo-sexto.color-acento-contenido
         p
           b Figura 1.
           p Ejemplo de actividades del subcomité de finanzas
 
       figure.mb-4
-          img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura1.png', alt='diagrama')
+          img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura1.svg', alt='diagrama')
 
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4.mb-4
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/texto_destacado/img4.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        ol.lista-ol
-            li 
-              span.fas.fa-check(style='color: #f85316')
-              | Generación de valor agregado, de utilidad, de ventaja y de mejora.
-            li 
-              span.fas.fa-check(style='color: #f85316')
-              | Generación de beneficios.
-            li 
-              span.fas.fa-check(style='color: #f85316')
-              | Su punto de partida es el proceso creativo.
-            li 
-              span.fas.fa-check(style='color: #f85316')
-              | Debe ser perdurable y sostenible en el tiempo.
-            li 
-              span.fas.fa-check(style='color: #f85316')
-              | Búsqueda constante de un mejoramiento continuo.
-            li 
-              span.fas.fa-check(style='color: #f85316')
-              | Generación de soluciones.
-            li 
-              span.fas.fa-check(style='color: #f85316')
-              | Parte de la aplicación de nuevos conocimientos.
            
-   
+    .bloque-texto-a.color-primario.p-4.p-md-5.mb-5(style="background-color: #E8E8E8")
+      .row.m-0.align-items-center.justify-content-between
+        .col-lg-5.mb-4.mb-lg-0
+          h2.mb-0 La innovación también presenta una serie de características que la hacen interesante a nivel empresarial, teniendo en cuenta sus bondades y su capacidad de generar resultados. A continuación, se citan algunas de estas características:
+        .col-lg-7
+          .bloque-texto-a__texto.p-4
+            ol.lista-ol
+              li 
+                span.fas.fa-check(style='color: #f85316')
+                | Generación de valor agregado, de utilidad, de ventaja y de mejora.
+              li 
+                span.fas.fa-check(style='color: #f85316')
+                | Generación de beneficios.
+              li 
+                span.fas.fa-check(style='color: #f85316')
+                | Su punto de partida es el proceso creativo.
+              li 
+                span.fas.fa-check(style='color: #f85316')
+                | Debe ser perdurable y sostenible en el tiempo.
+              li 
+                span.fas.fa-check(style='color: #f85316')
+                | Búsqueda constante de un mejoramiento continuo.
+              li 
+                span.fas.fa-check(style='color: #f85316')
+                | Generación de soluciones.
+              li 
+                span.fas.fa-check(style='color: #f85316')
+                | Parte de la aplicación de nuevos conocimientos.
+
     h3 
       i#t_1_1.fas.fa-square.me-3.cuadrado.mt-4
       |  Estrategias y modelos 
@@ -158,7 +159,7 @@
           p Fases y pasos de la innovación
 
       figure.mb-4
-          img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura2.png', alt='diagrama')
+          img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura2.svg', alt='diagrama')
     p.mb-4 Hablemos sobre cada una de ellas:
     
     .row.justify-content-center.mb-4

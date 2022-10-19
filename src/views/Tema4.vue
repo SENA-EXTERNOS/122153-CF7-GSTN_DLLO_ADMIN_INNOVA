@@ -373,36 +373,36 @@
         h3.mb-0(style="text-align:right") Cortés Sánchez (2017), pag 30  
     
     p.mb-4 Estas normas determinan todos los procedimientos que deben llevarse a cabo durante la actividad empresarial (estructura, procedimientos, recursos a utilizar); la finalidad es dar cumplimiento a las normas de calidad y garantizar el mejor resultado final para los consumidores.
- 
-    .row.justify-content-around.align-items-center.mb-4
-      .col-lg-10
-        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4.mb-4
-          .bloque-texto-g__img(
-              :style="{'background-image': `url(${require('@/assets/curso/temas/texto_destacado/img41.png')})`}"
-            )   
-          .bloque-texto-g__texto.p-4
-           ol.lista-ol
-            li 
-              span.fas.fa-check(style='color: #f85316')
-              | Liderazgo efectivo
-            li 
-              span.fas.fa-check(style='color: #f85316')
-              | Objetivos compartidos bien definidos
-            li 
-              span.fas.fa-check(style='color: #f85316')
-              | Comunicación asertiva
-            li 
-              span.fas.fa-check(style='color: #f85316')
-              | Sentido de pertenencia
-            li 
-              span.fas.fa-check(style='color: #f85316')
-              | Resolución de conflictos
-            
+
+    .bloque-texto-a.color-primario.p-4.p-md-5.mb-5(style="background-color: #E8E8E8")
+      .row.m-0.align-items-center.justify-content-between
+        .col-lg-5.mb-4.mb-lg-0
+          h2.mb-0 La implementación de la gestión de la calidad permitirá:
+        .col-lg-7
+          .bloque-texto-a__texto.p-4
+            ol.lista-ol
+              li 
+                span.fas.fa-check(style='color: #f85316')
+                | Liderazgo efectivo
+              li 
+                span.fas.fa-check(style='color: #f85316')
+                | Objetivos compartidos bien definidos
+              li 
+                span.fas.fa-check(style='color: #f85316')
+                | Comunicación asertiva
+              li 
+                span.fas.fa-check(style='color: #f85316')
+                | Sentido de pertenencia
+              li 
+                span.fas.fa-check(style='color: #f85316')
+                | Resolución de conflictos
+        
+    
     .row.justify-content-around.align-items-center.mb-4
       .col-lg-11
         .cajon.color-acento-botones.color-fondo-secundario.p-4.mb-4.mt-4
           p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.    
-
+    
 </template>
 
 <script>

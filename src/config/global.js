@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Innovación, creatividad y emprendimiento',
     descripcionCurso:
       'La historia ha demostrado que, en la práctica, pueden aplicarse diversas teorías para resolver o apoyar la solución de problemáticas naturales del devenir empresarial u organizacional. En este componente formativo, se estudiarán las diferentes teorías y conceptos que le han dado origen a la administración como ciencia aplicable.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -160,21 +160,21 @@ export default {
       referencia:
         'Design Thinking España- (2020).<i> Metodología Design Thinging. ¡Aprende a aplicar sus fases con ejemplos</i> (video). YouTube. ',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=_ul3wfKss58',
+      link: 'https://www.youtube.com/watch?v=_ul3wfKss58',
     },
     {
       tema: 'La creatividad',
       referencia:
         'Economía Naranja. (s.f.).<em> ABC Economía Naranja.</em> Economía Naranja',
       tipo: 'Página web',
-      descarga: 'https://economianaranja.gov.co/abc-economia-naranja/',
+      link: 'https://economianaranja.gov.co/abc-economia-naranja/',
     },
     {
       tema: 'La creatividad',
       referencia:
         'Design Thinking España- (2021).<i> Qué es el brainstorming y para qué sirve</i>(video). YouTube.',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=_4OlfGwxydA',
+      link: 'https://www.youtube.com/watch?v=_4OlfGwxydA',
     },
   ],
   glosario: [
@@ -232,38 +232,31 @@ export default {
   referencias: [
     {
       referencia:
-        'Cortés Sánchez, J. M. (2017). Sistema de gestión de calidad: ISO 9001:2015. Ediciones de la U, Bogotá. ',
-      link: '',
+        'Cortés Sánchez, J. M. (2017).<em> Sistema de gestión de calidad: ISO 9001:2015.</em> Ediciones de la U, Bogotá. ',
     },
     {
       referencia:
-        'De Pablo, F. y Lasa, M. (2017). Dibújalo: Innova, crea y comunica de manera visual. Editorial LID.',
-      link: '',
+        'De Pablo, F. y Lasa, M. (2017). <em>Dibújalo: Innova, crea y comunica de manera visual.</em> Editorial LID.',
     },
     {
       referencia:
-        'Galván, L. (2017). Creatividad para el cambio: innovación para la vida y la empresa. Ecoe Ediciones, Bogotá. ',
-      link: '',
+        'Galván, L. (2017). <em>Creatividad para el cambio: innovación para la vida y la empresa.</em> Ecoe Ediciones, Bogotá. ',
     },
     {
       referencia:
-        'Lussier, R. N. y Achuan, C. F.(2016). Liderazgo: teoría, aplicación y desarrollo de habilidades. Cengage Learning',
-      link: '',
+        'Lussier, R. N. y Achuan, C. F.(2016). <em>Liderazgo: teoría, aplicación y desarrollo de habilidades.</em> Cengage Learning',
     },
     {
       referencia:
-        'Moote, I. (2014). DESING THINKING: para la innovación estratégica. Empresa activa.',
-      link: '',
+        'Moote, I. (2014). <em>DESING THINKING: para la innovación estratégica.</em> Empresa activa.',
     },
     {
       referencia:
-        'Parra Alviz, M., López Posada, L. M. & Rubio Guerrero, G. (2017). Emprendimiento y creatividad: aspectos esenciales para crear empresa. Ecoe Ediciones, Bogotá',
-      link: '',
+        'Parra Alviz, M., López Posada, L. M. & Rubio Guerrero, G. (2017). <em>Emprendimiento y creatividad: aspectos esenciales para crear empresa.</em> Ecoe Ediciones, Bogotá',
     },
     {
       referencia:
-        'Riveros Tovar, P. (2019). Coolhunting, tendencias e innovación: a la cacería del futuro. Ediciones de la U, Bogotá. ',
-      link: '',
+        'Riveros Tovar, P. (2019).<em> Coolhunting, tendencias e innovación: a la cacería del futuro.</em> Ediciones de la U, Bogotá. ',
     },
   ],
   creditos: {
