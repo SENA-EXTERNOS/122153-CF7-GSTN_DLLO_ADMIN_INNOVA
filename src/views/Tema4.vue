@@ -30,7 +30,7 @@
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img35.png', alt='imagen relacionada')
 
-    h3.mb-4 a. Liderazgo.
+    h3.mb-4 a. Liderazgo
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4.mb-4
       .bloque-texto-g__img(style="width: 470px ")(
@@ -143,14 +143,14 @@
         p.text-center(style=" margin-top: -15px;") Política de compensación.
     
     p.mb-4.mt-4 Por otro lado, entender el liderazgo como un mecanismo que potencializa el material del logro de resultados, es importante.
-    p.mb-4 <strong>Sin embargo</strong>, no todos los líderes tienen el mismo estilo, existen “formas” de ejercer el liderazgo y algunas de ellas son:
+    p.mb-4 Sin embargo, no todos los líderes tienen el mismo estilo, existen “formas” de ejercer el liderazgo y algunas de ellas son:
 
     .row.justify-content-center.mb-4
       .col-md-10
         AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
           .row(titulo="Liderazgo natural")
             .col-md-12.mb-4.mb-md-0
-              p La innovación no solo puede dar respuesta al mejoramiento o a la llegada de un producto nuevo, sino que también puede aplicarse a la generalidad de la organización. Esto puede lograrse a partir de la planificación de la empresa, las actividades que desempeña y el relacionamiento interno y externo aplicando mecanismos que incluyan la innovación en su marcha. Por ejemplo: nuevos software o sistemas de información para la gestión empresarial.
+              p Aquel que no es reconocido por un título, pero ejerce el rol de líder.
         
           .row(titulo="Liderazgo transformacional")
             .col-md-12.mb-4.mb-md-0
@@ -184,10 +184,6 @@
             .col-md-12.mb-4.mb-md-0
               p Líderes bien cualificados que procuran que el ambiente esté tranquilo para llegar lo más cerca posible a la felicidad.
         
-          .row(titulo="Innovación en los procesos y/o productos")
-            .col-md-12.mb-4.mb-md-0
-              p Para este caso, la innovación se enfoca en el mejoramiento de los productos que ya existen; así mismo, con los procesos que se encuentran determinados, pero que son susceptibles de ser mejorados a partir de la innovación. Por ejemplo: fabricar productos con envoltorios biodegradables (amigables con el medio ambiente).
-
           .row(titulo="Liderazgo autocrático")
             .col-md-12.mb-4.mb-md-0
               p A este tipo de líder no se le discuten sus decisiones simplemente por el cargo que tiene.
@@ -227,6 +223,8 @@
               span.fas.fa-check(style='color: #f85316')
               | Comparte destrezas y habilidades
     
+    p.mb-4 Igual a lo explicado en la temática de liderazgo, el trabajo en equipo tiene factores de diferenciación, por eso se presentan algunos tipos relacionados con este modelo de trabajo:
+    
     .row.justify-content-center.mb-4
       .col-md-7
         AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
@@ -246,17 +244,13 @@
             .col-md-12.mb-4.mb-md-0
               p Compuestos por diferentes líderes de la organización que se reúnen con el fin de tomar decisiones en pro de un objetivo común.
           
-          .row(titulo="Equipos tradicionales")
-            .col-md-12.mb-4.mb-md-0
-              p El que se espera que cumpla con los objetivos asignados a partir de la directriz de un líder asignado.
-        
           .row(titulo="Equipos virtuales")
             .col-md-12.mb-4.mb-md-0
-              p Compuestos por diferentes líderes de la organización que se reúnen con el fin de tomar decisiones en pro de un objetivo común.
+              p Se sirven de la tecnología para realizar sus reuniones y mantener su relación. Son equipos muy claros en términos de funciones (definidas) y con un nivel de independencia elevado.
 
           .row(titulo="Equipos autodirigidos")
             .col-md-12.mb-4.mb-md-0
-              p Se sirven de la tecnología para realizar sus reuniones y mantener su relación. Son equipos muy claros en términos de funciones (definidas) y con un nivel de independencia elevado.
+              p Son los equipos que no demandan un jefe o un líder que los guíe, trabajan de manera natural e independiente.
 
       .col-md-5
         img(src='@/assets/curso/temas/texto_destacado/img38.png', alt='imagen relacionada')  
@@ -291,6 +285,9 @@
       .col-lg-10
         .cajon.color-primario.color-fondo.p-4.mb-4
           p.mb-0 Recuerde: un trabajo en equipo bien logrado, promueve la eficiencia y la eficacia en los resultados organizacionales, además del aporte que hace al clima organizacional y a la capacidad de resolver los retos y las dificultades que se presentan. Son entonces, los equipos de trabajo, pieza fundamental para el logro de objetivos a la hora de innovar, ser creativos y emprendedores.    
+    h3
+      i#t_4_2.fas.fa-square.me-3.cuadrado.mt-4 
+      |  Los sistemas de innovación  
     
     p.mb-4 Hablar de los sistemas de innovación es hacer referencia a la forma como se lleva a cabo la innovación en una empresa u organización.
 
@@ -301,7 +298,7 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-6.mb-4.mb-md-0
             h3.mb-4(style="margin-top: -70px;") Sistemas de innovación espontáneos
-            p se consideran como aquellos que dejan libertar a las personas o equipos de trabajo para atender los retos de innovación, según las necesidades del mercado o las necesidades reactivas de la empresa. Este tipo de sistema es considerado como el más generalizado y aplicado, sin embargo, es poco formalizado, evidenciando esta situación en las actividades de investigación y desarrollo. Dicha situación obedece a la poca estructuración organizacional y a la falta de orientación a nivel de estrategia en términos de investigación y desarrollo.
+            p Se consideran como aquellos que dejan libertar a las personas o equipos de trabajo para atender los retos de innovación, según las necesidades del mercado o las necesidades reactivas de la empresa. Este tipo de sistema es considerado como el más generalizado y aplicado, sin embargo, es poco formalizado, evidenciando esta situación en las actividades de investigación y desarrollo. Dicha situación obedece a la poca estructuración organizacional y a la falta de orientación a nivel de estrategia en términos de investigación y desarrollo.
 
           .col-md-6
             figure
@@ -318,8 +315,8 @@
         
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-6.mb-4.mb-md-0
-            h3.mb-4(style="margin-top: -70px;") Sistemas de innovación espontáneos
-            p se consideran como aquellos que dejan libertar a las personas o equipos de trabajo para atender los retos de innovación, según las necesidades del mercado o las necesidades reactivas de la empresa. Este tipo de sistema es considerado como el más generalizado y aplicado, sin embargo, es poco formalizado, evidenciando esta situación en las actividades de investigación y desarrollo. Dicha situación obedece a la poca estructuración organizacional y a la falta de orientación a nivel de estrategia en términos de investigación y desarrollo.
+            h3.mb-4(style="margin-top: -70px;") Sistemas de innovación abiertos
+            p : este sistema se basa en la capacidad innovadora de los integrantes de la empresa, pero también de actores externos a ella, clientes, proveedores, centros de desarrollo tecnológico y universidades a través de grupos de investigación. Estos posibilitan un aprovechamiento en la cadena productiva de la cual se participa. Este tipo de sistema permite el intercambio libre de ideas y proyectos al interior de la empresa, todo ello priorizando el enfoque en los clientes para asegurar en mayor probabilidad el éxito en las propuestas a emprender.
 
           .col-md-6
             figure
@@ -331,7 +328,7 @@
           p.mb-0 Si bien los sistemas explicados muestran los diversos entornos en los cuales se puede dar la innovación, trazar metas claras es fundamental para cualquier proyecto que se emprenda. Por lo tanto, cuando se habla de planeación estratégica en una organización, se habla de tener claras esas metas porque ellas son el reflejo de lo que se aspira y señalan el lugar al que se quiere llegar a futuro, lo cual no es ajeno al concepto de innovación.    
 
     h3
-      i#t_4_2.fas.fa-square.me-3.cuadrado.mt-4 
+      i#t_4_3.fas.fa-square.me-3.cuadrado.mt-4 
       |  Gestión de la calidad y la innovación 
 
     p.mb-4 En contextos como el que vivimos, a nivel empresarial, no existen retos y premisas más importantes para la alta dirección que la garantía de ofrecer u ofertar productos y/o servicios de calidad y en constante proceso de innovación. Por ello, la gestión de la calidad se concibe como un paso muy importante para otorgar esa garantía, siendo esta un conjunto de acciones o actividades que propenden por identificar y evitar posibles desviaciones del proceso empresarial (llámese productivo, de servicio o de proceso), con miras a optimizar los recursos y evitar reprocesos y esfuerzos que se materializan en pérdidas para la organización.                
@@ -362,7 +359,7 @@
     .row.justify-content-around.align-items-center.mb-4
       .col-lg-9
         .cajon.color-primario.color-fondo.p-4.mb-4
-          p.mb-0 El sistema de gestión de calidad contiene normas y estándares a cumplir, para ello hay normativas que ayudan a establecer estos criterios, como por ejemplo, la norma ISO 9001, que define requisitos para certificar el sistema de calidad de las empresas. Como lo plantea en su libro Cortés Sánchez     
+          p.mb-0 El sistema de gestión de calidad contiene normas y estándares a cumplir, para ello hay normativas que ayudan a establecer estos criterios, como por ejemplo, la norma ISO 9001, que define requisitos para certificar el sistema de calidad de las empresas. Como lo plantea en su libro Cortés Sánchez:     
     
     .bloque-texto-f.pt-4.px-4.mb-5
       .bloque-texto-f__comillas.mb-4
@@ -383,19 +380,19 @@
             ol.lista-ol
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Liderazgo efectivo
+                | Satisfacción del cliente
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Objetivos compartidos bien definidos
+                | Obtención de nuevos clientes
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Comunicación asertiva
+                | Mejora en los procesos de la empresa
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Sentido de pertenencia
+                | Diferenciación de la competencia
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Resolución de conflictos
+                | Reducción en costos
         
     
     .row.justify-content-around.align-items-center.mb-4

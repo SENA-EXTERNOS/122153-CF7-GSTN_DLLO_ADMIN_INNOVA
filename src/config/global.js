@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Innovación, creatividad y emprendimiento',
     descripcionCurso:
-      'La historia ha demostrado que, en la práctica, pueden aplicarse diversas teorías para resolver o apoyar la solución de problemáticas naturales del devenir empresarial u organizacional. En este componente formativo, se estudiarán las diferentes teorías y conceptos que le han dado origen a la administración como ciencia aplicable.',
+      'El mundo experimenta cada vez más la complejidad que conllevan los cambios, los nuevos entornos provenientes de la tecnología, la normatividad, la competencia, y actúa conforme a su capacidad adaptativa para afrontarlos. Esta condición da la entrada a la innovación y a la creatividad, como punto de partida a la exploración de nuevos caminos para descubrir valiosas oportunidades.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -101,8 +101,14 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.2',
-            titulo: 'Gestión de la calidad y la innovación',
+            titulo: 'Los sistemas de innovación',
             hash: 't_4_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.3',
+            titulo: 'Gestión de la calidad y la innovación',
+            hash: 't_4_3',
           },
         ],
       },

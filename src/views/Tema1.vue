@@ -21,7 +21,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario")
           .row(titulo="Innovación a nivel de organización")
             .col-md-12.mb-4.mb-md-0
-              p La innovación no solo puede dar respuesta al mejoramiento o a la llegada de un producto nuevo, sino que también puede aplicarse a la generalidad de la organización. Esto puede lograrse a partir de la planificación de la empresa, las actividades que desempeña y el relacionamiento interno y externo aplicando mecanismos que incluyan la innovación en su marcha. Por ejemplo: nuevos software o sistemas de información para la gestión empresarial.
+              p La innovación no solo puede dar respuesta al mejoramiento o a la llegada de un producto nuevo, sino que también puede aplicarse a la generalidad de la organización. Esto puede lograrse a partir de la planificación de la empresa, las actividades que desempeña y el relacionamiento interno y externo aplicando mecanismos que incluyan la innovación en su marcha. Por ejemplo: nuevos <i>software</i> o sistemas de información para la gestión empresarial.
         
           .row(titulo="Innovación en los procesos y/o productos")
             .col-md-12.mb-4.mb-md-0
@@ -42,8 +42,8 @@
     .mx-auto.col-md-9.mb-4
       .titulo-sexto.color-acento-contenido
         p
-          b Figura 1.
-          p Ejemplo de actividades del subcomité de finanzas
+          b Figura 1
+          p Tipos de innovación
 
       figure.mb-4
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura1.svg', alt='diagrama')
@@ -145,7 +145,7 @@
             h5 Estrategia oportunista o de nicho
             p Este tipo de estrategia es utilizada comúnmente por competidores pequeños que tienen especialidad en dar atención a nichos de mercado con productos muy específicos y que no representan peligro para los competidores grandes, dado su tamaño y la capacidad de pasar desapercibidos. 
 
-    p.mb-4 Conozca los modelos que rigen el proceso de innovación. El primero se denomina <strong>modelo lineal</strong><em>(enfoque pull)</em> y está relacionado con el impulso de la demanda y la investigación, fruto de ese impulso son los resultados para la fabricación o creación de nuevos productos o servicios. La denominación de <em>pull</em>  se debe a que es parte de las actividades que desarrolla un segmento de clientes objetivo. En este modelo se plantea la solución o propuesta,  a través de la observación y la indagación. El segundo, llamado <strong> modelo mixto</strong>, reconoce la importancia de la retroactividad del producto o servicio desde el mercado. Un tercer modelo es el de <strong>enfoque push</strong> , sucede cuando primero se desarrolla el producto o servicio y luego se trata de introducir al mercado, descubriendo sus diferentes utilidades y explorando sus potencialidades.          
+    p.mb-4 Conozca los modelos que rigen el proceso de innovación. El primero se denomina <strong>modelo lineal</strong> (enfoque <em>pull)</em> y está relacionado con el impulso de la demanda y la investigación, fruto de ese impulso son los resultados para la fabricación o creación de nuevos productos o servicios. La denominación de <em>pull</em>  se debe a que es parte de las actividades que desarrolla un segmento de clientes objetivo. En este modelo se plantea la solución o propuesta,  a través de la observación y la indagación. El segundo, llamado <strong> modelo mixto</strong>, reconoce la importancia de la retroactividad del producto o servicio desde el mercado. Un tercer modelo es el de <strong>enfoque <i>push</i></strong>, sucede cuando primero se desarrolla el producto o servicio y luego se trata de introducir al mercado, descubriendo sus diferentes utilidades y explorando sus potencialidades.          
     
     .row.justify-content-around.align-items-center.mb-4
       .col-lg-9
@@ -155,7 +155,7 @@
     .mx-auto.col-md-12.mb-4
       .titulo-sexto.color-acento-contenido
         p
-          b Figura 2.
+          b Figura 2
           p Fases y pasos de la innovación
 
       figure.mb-4
@@ -183,7 +183,7 @@
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Mercadeo")
               .row
                 .col-md-12.p-4.color-fondo
-                  p No se pueden almacenar. La prestación del servicio y el consumo ocurren simultáneamente. Por ejemplo, cuando un mesero atiende en un restaurante, no se puede almacenar o guardar ese servicio. Si un pasaje de avión con fecha cerrada no se usa, se pierde, pues el vuelo se realiza en la fecha y la hora programadas; puede volar en otro momento, pero no se puede repetir ese instante.
+                  p En esta fase se desarrollan las formas de atracción del cliente, las estrategias de comunicación, de promoción y de <i>marketing</i>.
       .col-md-4
         img(src='@/assets/curso/temas/texto_destacado/img11.png', alt='imagen relacionada')  
               
@@ -202,11 +202,8 @@
         .col-sm-12.col-md-8.col-lg-10
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-               p Ahora, preguntémonos: <strong>¿qué es la investigación y el desarrollo (I+D)?</strong>  Es el proceso de investigación en conocimientos técnicos y científicos, con el objetivo de desarrollar nuevos productos, procesos o materiales a partir de tecnologías aplicadas. Para esto, en las actividades de I+D, resulta fundamental poner en ejercicio un alto nivel de creatividad o novedad.        
+               p Ahora, preguntémonos: ¿qué es la investigación y el desarrollo (I+D)?  Es el proceso de investigación en conocimientos técnicos y científicos, con el objetivo de desarrollar nuevos productos, procesos o materiales a partir de tecnologías aplicadas. Para esto, en las actividades de I+D, resulta fundamental poner en ejercicio un alto nivel de creatividad o novedad.        
      
-   
-    p.mb-4 El siguiente video responde a uno de los principales interrogantes que se presenta cuando se habla de innovación: ¿cómo se puede definir una estrategia de innovación? Lo invitamos a analizarlo y tener presentes cada una de las ideas allí planteadas durante el estudio de los temas.
-    
     .row.justify-content-around.align-items-center.mb-4
       .col-lg-9
         .bloque-texto-h.color-primario.p-3.p-sm-4.p-md-4.mb-4
@@ -214,14 +211,14 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/texto_destacado/img13.png')})`}"
             )   
           .bloque-texto-h__texto.p-4
-            p En la fase innovativa es muy importante la validación previa del producto, servicio o proceso, y para ello la metodología <strong>Desing Thinking </strong>aporta información relevante para el lanzamiento final de la propuesta. Para la implementación de esta metodología, seguir la ruta de prototipado es la mejor alternativa. De Pablo y Lassa (2017) indican que “Cuando la información se presenta de forma visual, amplifica hasta un 65 % la capacidad de recordar el mensaje” (p.18).
+            p En la fase innovativa es muy importante la validación previa del producto, servicio o proceso, y para ello la metodología <strong><i>Desing Thinking</i></strong> aporta información relevante para el lanzamiento final de la propuesta. Para la implementación de esta metodología, seguir la ruta de prototipado es la mejor alternativa. De Pablo y Lassa (2017) indican que “Cuando la información se presenta de forma visual, amplifica hasta un 65 % la capacidad de recordar el mensaje” (p.18).
     
-    p.mb-4 El Design Thinking está compuesto por unas fases, la cuales son:
+    p.mb-4 El <i>Design Thinking</i> está compuesto por unas fases, la cuales son:
    
     figure.mb-4.color-fondo
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura3.png', alt='diagrama')
 
-    p.mb-4 Esta metodología resulta ampliamente conocida en el escenario empresarial, además tiene muy buena aplicación para productos, porque permite ver materializada la idea antes de su lanzamiento. Como lo expresa 
+    p.mb-4 Esta metodología resulta ampliamente conocida en el escenario empresarial, además tiene muy buena aplicación para productos, porque permite ver materializada la idea antes de su lanzamiento.
    
     .bloque-texto-f.pt-4.px-4.mb-5
       .bloque-texto-f__comillas.mb-4

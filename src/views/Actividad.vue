@@ -10,12 +10,12 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
-          h2 Arrastrar y soltar
+          h2 Innovación, creatividad y emprendimiento
         p.mb-4 Apreciado aprendiz, a continuación encontrará una serie de preguntas que deberá resolver, con el objetivo de evaluar la aprehensión de los conocimientos expuestos en este componente formativo.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Tipo de actividad
+              p.fw-bold.mb-0 Falso / verdadero
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span(style="color: white") Realizar

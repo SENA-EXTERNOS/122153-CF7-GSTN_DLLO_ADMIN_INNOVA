@@ -12,7 +12,7 @@
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img15.png', alt='imagen relacionada')
       .col-md-7      
-        p La creatividad puede entenderse como la fabricación de una idea o un concepto, un descubrimiento original que ocasiona la satisfacción del generador de una idea y de los usuarios, o beneficiarios, de su utilidad. Por lo mismo, se concibe como una de las habilidades más importantes del ser humano, porque es la que le permite crear nuevas cosas a partir de lo que ya es un hecho o existe en el mundo. Hablar de creatividad es hablar de exploración de nuevos caminos o nuevas alternativas, formas diferentes de hacer las cosas, pero siempre en la búsqueda del mejoramiento del producto, servicio o situación.
+        p La <strong>creatividad</strong> puede entenderse como la fabricación de una idea o un concepto, un descubrimiento original que ocasiona la satisfacción del generador de una idea y de los usuarios, o beneficiarios, de su utilidad. Por lo mismo, se concibe como una de las habilidades más importantes del ser humano, porque es la que le permite crear nuevas cosas a partir de lo que ya es un hecho o existe en el mundo. Hablar de creatividad es hablar de exploración de nuevos caminos o nuevas alternativas, formas diferentes de hacer las cosas, pero siempre en la búsqueda del mejoramiento del producto, servicio o situación.
     
     p.mb-4 La creatividad tiene un proceso para su desarrollo; este proceso conlleva unos pasos que permiten que un procedimiento creativo tenga mayores posibilidades de llegar al éxito. Estas etapas son:
 
@@ -23,22 +23,18 @@
             ImagenInfografica.color-acento-botones.mb-5
               template(v-slot:imagen)
                 figure
-                  img(data-aos="fade-left" src='@/assets/curso/temas/texto_destacado/img16.svg', alt='diagrama tipo rompecabezas')
+                  img(data-aos="fade-left" src='@/assets/curso/temas/texto_destacado/img16.svg', alt='diagrama de ejemplo')
 
               .tarjeta.color-fondo-terciario.p-4(x="31%" y="31%" numero="1" style='border-radius: 10px; width: 400px')
-                h4.text-center Cuestionamiento y preparación
                 p.mb-0.text-center En esta etapa se realiza el cuestionamiento sobre la necesidad, el entorno y el estado del arte del campo que se quiera impactar con la idea.
               
               .tarjeta.color-fondo-terciario.p-4(x="37%" y="12%" numero="2" style='border-radius: 10px; width: 400px')
-                h4.text-center Incubación de la idea
                 p.mb-0.text-center Se conceptualiza la idea y se estructura de manera más aterrizada.
                
               .tarjeta.color-fondo-terciario.p-4(x="74%" y="34%" numero="3" style='border-radius: 10px; width: 400px')
-                h4 Verificación y pruebas
                 p.mb-0 Esta etapa pone a prueba la idea, demostrando su usabilidad o aplicación con base en el análisis de la fase de cuestionamiento y preparación
               
               .tarjeta.color-fondo-terciario.p-4(x="76%" y="63%" numero="4" style='border-radius: 10px; width: 400px')
-                h4 Adaptación y difusión
                 p.mb-0 Se lanza el producto, adaptación, servicio o mejora para su uso y difusión.
    
     p Para el cumplimiento de estas etapas la creatividad debe tener varios elementos en cuenta.
@@ -156,9 +152,9 @@
         figure.mw-sm-350px
           img(src='@/assets/curso/temas/texto_destacado/img23.png', alt='imagen relacionada')
       .col-md-7      
-        p Ahora, se denomina ecosistema de producto los casos en los cuales los productos o los servicios tienen relación entre sí, es decir, se encuentran interconectados de tal forma que se complementan unos a otros. Un ejemplo claro de ello es la tecnología celular, donde las diferentes marcas se han encargado de desarrollar productos complementarios para fidelizar el consumidor como relojes, audífonos, entre otros. De la misma manera se encuentra el ecosistema de servicios donde se desarrollan servicios para el consumidor, de manera que adquirir uno de ellos lo pueda llevar a una cadena consecutiva de otros.
+        p Ahora, se denomina <strong>ecosistema de producto</strong> los casos en los cuales los productos o los servicios tienen relación entre sí, es decir, se encuentran interconectados de tal forma que se complementan unos a otros. Un ejemplo claro de ello es la tecnología celular, donde las diferentes marcas se han encargado de desarrollar productos complementarios para fidelizar el consumidor como relojes, audífonos, entre otros. De la misma manera se encuentra el <strong>ecosistema de servicios</strong> donde se desarrollan servicios para el consumidor, de manera que adquirir uno de ellos lo pueda llevar a una cadena consecutiva de otros.
     
-    p.mb-4 Otra de las herramientas para llegar al logro de ese ecosistema o el desarrollo de productos, servicios o procesos innovadores, es la co-creación, donde confluyen experiencia, creatividad, propuestas e ideas de varias empresas que surgen a partir de alianzas estratégicas para este proceso.
+    p.mb-4 Otra de las herramientas para llegar al logro de ese ecosistema o el desarrollo de productos, servicios o procesos innovadores, es la <strong>co-creación</strong>, donde confluyen experiencia, creatividad, propuestas e ideas de varias empresas que surgen a partir de alianzas estratégicas para este proceso.
     
     .row.justify-content-around.align-items-center.mb-4
       .col-lg-9
@@ -167,7 +163,7 @@
     
     .row.justify-content-center.mb-4.mt-4
       .col-md-7      
-        p De acuerdo al contenido desarrollado en este componente formativo, se trae a colación un concepto que viene fortaleciéndose como parte de la industria creativa. Es la denominada economía naranja, conocida como el modelo de desarrollo en el que la creatividad y la diversidad cultural son pilares de transformación social y económica de Colombia como país y como región. Este modelo cuenta con elementos de desarrollo social, económico y cultural; está fundamentado en la creación, producción y distribución de bienes y servicios culturales y creativos, que pueden ser protegidos por los derechos de propiedad intelectual, es decir, cómo se convierten las ideas en dinero. En otras palabras, la economía naranja está basada en creaciones intelectuales de bienes y servicios establecidos en el talento de las personas y en el patrimonio cultural de la humanidad: el arte, el diseño, los videojuegos, las películas y la artesanía, generan un valor agregado en gran proporción por la generación de ideas creativas que intervienen para su desarrollo.
+        p De acuerdo al contenido desarrollado en este componente formativo, se trae a colación un concepto que viene fortaleciéndose como parte de la industria creativa. Es la denominada <strong>economía naranja </strong>, conocida como el modelo de desarrollo en el que la creatividad y la diversidad cultural son pilares de transformación social y económica de Colombia como país y como región. Este modelo cuenta con elementos de desarrollo social, económico y cultural; está fundamentado en la creación, producción y distribución de bienes y servicios culturales y creativos, que pueden ser protegidos por los derechos de propiedad intelectual, es decir, cómo se convierten las ideas en dinero. En otras palabras, la economía naranja está basada en creaciones intelectuales de bienes y servicios establecidos en el talento de las personas y en el patrimonio cultural de la humanidad: el arte, el diseño, los videojuegos, las películas y la artesanía, generan un valor agregado en gran proporción por la generación de ideas creativas que intervienen para su desarrollo.
       .col-md-5
         figure.mw-sm-350px(style="margin-top: 40px;")
           img(src='@/assets/curso/temas/texto_destacado/img24.png', alt='imagen relacionada')
@@ -208,7 +204,7 @@
                 .col-md-12.p-4.color-fondo
                   p Conciertos, ópera, circo, orquestas, danza y teatro.  
                 
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Turismo y patrimonio cultural")
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Turismo y <br> patrimonio <br> cultural")
               .row
                 .col-md-12.p-4.color-fondo
                   p Museos, cocinas tradicionales, artesanías, parques naturales, bibliotecas, archivos, festivales y carnavales.
@@ -225,12 +221,12 @@
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Artesanías")
               .row
                 .col-md-12.p-4.color-fondo
-                  p Cocinas tradicionales y bebidas alcohólicas tradicionales. 
+                  p Indígena, tradicional popular y contemporánea.
       
       .col-md-4.col-lg-4(style="margin-top: 80px; ")
         img(src='@/assets/curso/temas/texto_destacado/img25.png', alt='imagen relacionada')  
 
-    p.mb-4 Industrias creativas, nuevos medios y software de contenidos:
+    p.mb-4 Industrias creativas, nuevos medios y <i>software</i> de contenidos:
     
     .row.justify-content-center.mb-4
       .col-md-4.col-lg-4(style="margin-top: 20px; ")
@@ -240,7 +236,7 @@
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Medios digitales")
               .row
                 .col-md-12.p-4.color-fondo
-                  p Videojuegos, contenidos interactivos audiovisuales, plataformas digitales, creación de software, creación de apps (código programación) y animación. Agencias de noticias y otros servicios de información.  
+                  p Videojuegos, contenidos interactivos audiovisuales, plataformas digitales, creación de <i>software</i>, creación de <i>apps</i> (código programación) y animación. Agencias de noticias y otros servicios de información.  
                 
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Diseño")
               .row

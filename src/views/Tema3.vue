@@ -17,26 +17,23 @@
     p.mb-4 El emprendimiento puede clasificarse en varios tipos:
 
     .row.justify-content-center.mb-4
-      .col-md-4.col-lg-4(style="margin-top: 20px; ")
+      .col-md-3.col-lg-4(style="margin-top: 20px; ")
         img(src='@/assets/curso/temas/texto_destacado/img30.png', alt='imagen relacionada') 
       .col-md-8 
         TabsA.color-acento-contenido.mb-4
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Emprendimiento social")
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Emprendimiento <br> social")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Emprendimiento social 
                   p Está orientado a la solución de una problemática social y del impacto positivo a una comunidad, incluso, sin intenciones de lucro económico.  
                 
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Emprendimiento cultural")
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Emprendimiento <br> cultural")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Emprendimiento cultural
                   p Esta modalidad de emprendimiento está muy ligada a la explicación de economía naranja, donde se generan ideas de organizaciones o de empresas culturales, con el propósito de no dejar que se pierda el valor simbólico de los productos y costumbres de un país.   
                 
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Emprendimiento empresarial")
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Emprendimiento <br> empresarial")
               .row
                 .col-md-12.p-4.color-fondo
-                  h4 Emprendimiento empresarial
                   p Implica el desarrollo de un producto o negocio, con el fin de generar ingresos para cubrir gastos básicos. Este tipo de emprendimiento ha surgido a partir de crisis económicas que han llevado a las personas a idear propuestas creativas e innovadoras en el mercado. El ser emprendedor tiene sus ventajas en cuanto a la generación de empleos y a la independencia con la que se cuenta al ser su propio jefe.
     
     .row.justify-content-around.align-items-center.mb-4
@@ -100,16 +97,16 @@
         figure.mw-sm-350px(style="margin-top: 25px;")
           img(src='@/assets/curso/temas/texto_destacado/img31.png', alt='imagen relacionada')
       .col-md-8
-        p.mb-4 Ahora bien, convertirse en un emprendedor implica, además de poner en marcha la idea o la creación, mantenerla en el mercado. Situación que en muchas ocasiones termina siendo más retadora que el mismo lanzamiento de la idea, porque los ambientes donde se reconoce la capacidad de hacer las cosas de manera especial y diferente para capturar la atención y el interés de los consumidores, son de mucha competitividad. Hablar de competitividad en el contexto del emprendimiento no dista mucho del contexto empresarial; una empresa se denomina competitiva cuando tiene la capacidad de hacer las cosas mejor que la competencia, bien sea en términos de producción, de empresa, de producto etc.       
+        p.mb-4 Ahora bien, convertirse en un emprendedor implica, además de poner en marcha la idea o la creación, mantenerla en el mercado. Situación que en muchas ocasiones termina siendo más retadora que el mismo lanzamiento de la idea, porque los ambientes donde se reconoce la capacidad de hacer las cosas de manera especial y diferente para capturar la atención y el interés de los consumidores, son de mucha competitividad. Hablar de <strong>competitividad</strong> en el contexto del emprendimiento no dista mucho del contexto empresarial; una empresa se denomina competitiva cuando tiene la capacidad de hacer las cosas mejor que la competencia, bien sea en términos de producción, de empresa, de producto etc.       
         .cajon.color-acento-botones.color-fondo-secundario.p-4.mb-4
-            p.mb-0  Los diversos escenarios de competencia con los que cuenta una empresa o un emprendimiento pueden estar focalizados en sus productos, en sus bienes, servicios, pero también en sus procesos. El hecho que dos empresas cuenten con el mismo producto, pero que lo comercialicen de manera diferente y uno resulte ser más exitoso que otro, puede ser uno de esos valores diferenciadores para ganar mercado, consumidores y por ende mayores ventas y utilidades. De este tema se ocupa el mercadeo o también el llamado marketing.  
+            p.mb-0  Los diversos escenarios de competencia con los que cuenta una empresa o un emprendimiento pueden estar focalizados en sus productos, en sus bienes, servicios, pero también en sus procesos. El hecho que dos empresas cuenten con el mismo producto, pero que lo comercialicen de manera diferente y uno resulte ser más exitoso que otro, puede ser uno de esos valores diferenciadores para ganar mercado, consumidores y por ende mayores ventas y utilidades. De este tema se ocupa el mercadeo o también el llamado <i>marketing</i>.  
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4.mb-4
       .bloque-texto-g__img(style="width: 470px ")(
         :style="{'background-image': `url(${require('@/assets/curso/temas/texto_destacado/img32.svg')})`}"
       )
       .bloque-texto-g__texto.p-3
-        p ¿Qué es el marketing? Es la actividad o conjunto de actividades, instrucciones y procesos para crear, entregar, comunicar y capturar la atención de los consumidores, clientes, socios y la sociedad en general. Aquí se logra que las personas se interesen en un producto o servicio de su empresa, y por esto quieran consumirlo, comprarlo o invertir en él. El marketing, para definir las estrategias de captación, realiza investigaciones de mercado, análisis y comprensión de los intereses de sus clientes potenciales.
+        p <strong>¿Qué es el <i>marketing</i>?</strong> Es la actividad o conjunto de actividades, instrucciones y procesos para crear, entregar, comunicar y capturar la atención de los consumidores, clientes, socios y la sociedad en general. Aquí se logra que las personas se interesen en un producto o servicio de su empresa, y por esto quieran consumirlo, comprarlo o invertir en él. El marketing, para definir las estrategias de captación, realiza investigaciones de mercado, análisis y comprensión de los intereses de sus clientes potenciales.
    
     h3
       i#t_3_1.fas.fa-square.me-3.cuadrado.mt-4 
@@ -117,7 +114,7 @@
     
     .row.justify-content-center.mb-4.mt-4
       .col-md-7      
-        p También existe una manera de aplicar el emprendimiento en empresas ya existentes y consolidadas, como lo es la alternativa de crear un nuevo negocio dentro de una organización, simultáneamente a la actividad que ya realiza: el desarrollo de un proyecto que mejora la eficiencia interna o que aumenta las ventas (utilidades), encontrar nuevas aplicaciones a un producto existente. Este impulso de nuevas ideas por parte de los trabajadores o integrantes de una empresa hace que se obtengan beneficios y valor agregado. Podemos concluir que esta es una iniciativa que surge al interior de la empresa con la intención de que luego se convierta en una organización independiente. Si bien es una práctica útil y apropiada para innovar al interior de las organizaciones, es necesario propiciar y crear el ambiente para lograrlo
+        p También existe una manera de aplicar el emprendimiento en empresas ya existentes y consolidadas, como lo es la alternativa de crear un nuevo negocio dentro de una organización, simultáneamente a la actividad que ya realiza: el desarrollo de un proyecto que mejora la eficiencia interna o que aumenta las ventas (utilidades), encontrar nuevas aplicaciones a un producto existente. Este impulso de nuevas ideas por parte de los trabajadores o integrantes de una empresa hace que se obtengan beneficios y valor agregado. Podemos concluir que esta es una iniciativa que surge al interior de la empresa con la intención de que luego se convierta en una organización independiente.<br> Si bien es una práctica útil y apropiada para innovar al interior de las organizaciones, es necesario propiciar y crear el ambiente para lograrlo.
 
       .col-md-5
         figure.mw-sm-350px
