@@ -110,12 +110,15 @@
             figure
               img(data-aos="zoom-out-left" src='@/assets/curso/temas/texto_destacado/img21.svg', alt='imagen representativa')
 
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4.mb-4
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/texto_destacado/img22.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4.mb-4.mt-4
-        p Recuerde que todas las ideas y novedades que surgen a partir del proceso creativo o de innovación, tienen propósitos muy claros de solución o aporte en situaciones de necesidad o de proyección de mejoramiento de un producto, proceso o servicio. Ahora bien, las aplicaciones de estas técnicas, tanto del proceso creativo como innovativo, tienen varios campos de acción; en nuestro caso están asociadas al impacto organizacional, entendiendo que es una alternativa para mejorar y hacer más eficiente y eficaz la empresa. 
+    .bloque-texto-a.color-primario.p-3.p-sm-4.p-md-4.mb-4
+      .row.m-0
+        .col-lg-5
+          figure
+            img(data-aos="zoom-out-left" src='@/assets/curso/temas/texto_destacado/img22.png', alt='imagen representativa')
+
+        .col-lg-7
+          .bloque-texto-a__texto.p-4
+            p Recuerde que todas las ideas y novedades que surgen a partir del proceso creativo o de innovación, tienen propósitos muy claros de solución o aporte en situaciones de necesidad o de proyección de mejoramiento de un producto, proceso o servicio. Ahora bien, las aplicaciones de estas técnicas, tanto del proceso creativo como innovativo, tienen varios campos de acción; en nuestro caso están asociadas al impacto organizacional, entendiendo que es una alternativa para mejorar y hacer más eficiente y eficaz la empresa. 
     
     p.mb-4 Para dar claridad sobre el tema se presentan los ámbitos de desarrollo para la aplicación de estos conceptos:
 

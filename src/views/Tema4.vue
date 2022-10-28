@@ -316,7 +316,7 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .col-md-6.mb-4.mb-md-0
             h3.mb-4(style="margin-top: -70px;") Sistemas de innovación abiertos
-            p : este sistema se basa en la capacidad innovadora de los integrantes de la empresa, pero también de actores externos a ella, clientes, proveedores, centros de desarrollo tecnológico y universidades a través de grupos de investigación. Estos posibilitan un aprovechamiento en la cadena productiva de la cual se participa. Este tipo de sistema permite el intercambio libre de ideas y proyectos al interior de la empresa, todo ello priorizando el enfoque en los clientes para asegurar en mayor probabilidad el éxito en las propuestas a emprender.
+            p Este sistema se basa en la capacidad innovadora de los integrantes de la empresa, pero también de actores externos a ella, clientes, proveedores, centros de desarrollo tecnológico y universidades a través de grupos de investigación. Estos posibilitan un aprovechamiento en la cadena productiva de la cual se participa. Este tipo de sistema permite el intercambio libre de ideas y proyectos al interior de la empresa, todo ello priorizando el enfoque en los clientes para asegurar en mayor probabilidad el éxito en las propuestas a emprender.
 
           .col-md-6
             figure
