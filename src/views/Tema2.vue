@@ -110,7 +110,7 @@
             figure
               img(data-aos="zoom-out-left" src='@/assets/curso/temas/texto_destacado/img21.svg', alt='imagen representativa')
 
-    .bloque-texto-a.color-primario.p-3.p-sm-4.p-md-4.mb-4
+    .bloque-texto-a.color-primario.p-3.p-sm-4.p-md-4.mb-4(style="background-color : #E8E8E8")
       .row.m-0
         .col-lg-5
           figure
