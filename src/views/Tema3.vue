@@ -90,7 +90,7 @@
               img(src="@/assets/curso/temas/tarjetas/tarjeta5.svg", alt="imagen relacionada")
           .crd_hover_txt--body
             h4.mb-3 Teoría del empresario de Kirzner
-            p.mb-0 Establece que el capitalismo es un proceso de descubrimiento, donde ni los productos, ni los recursos están dados. Así, los objetos resultado de una creación, no pueden atribuirse a los recursos, sino a la capacidad del emprendedor de estar alerta, que es justamente lo que lo hace diferente de los demás
+            p.mb-0 Establece que el capitalismo es un proceso de descubrimiento, donde ni los productos, ni los recursos están dados. Así, los objetos resultado de una creación, no pueden atribuirse a los recursos, sino a la capacidad del emprendedor de estar alerta, que es justamente, lo que lo hace diferente de los demás.
 
     .row.justify-content-center.mb-4
       .col-md-4

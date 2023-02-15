@@ -39,11 +39,11 @@
 
     p.mb-4 Es así como dentro del proceso de innovación podría hablarse de varias perspectivas y enfoques, teniendo en cuenta las características e intereses de la empresa. Entre los tipos de innovación se encuentran:
    
+    
     .mx-auto.col-md-9.mb-4
       .titulo-sexto.color-acento-contenido
-        p
-          b Figura 1
-          p Tipos de innovación
+        h5 Figura 1
+        p.mb-0 #[i Tipos de innovación]
 
       figure.mb-4
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura1.svg', alt='diagrama')
@@ -152,14 +152,14 @@
         .cajon.color-primario.color-fondo.p-4.mt-4
           p.mb-0 Llegamos así a un punto importante, la innovación puede ser considerada como un proceso de la cual se derivan fases y pasos, por ende resulta importante hablar de ellos.    
     
-    .mx-auto.col-md-12.mb-4
+    .mx-auto.col-md-9.mb-4
       .titulo-sexto.color-acento-contenido
-        p
-          b Figura 2
-          p Fases y pasos de la innovación
+        h5 Figura 2
+        p.mb-0 Fases y pasos de la innovación
 
       figure.mb-4
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura2.svg', alt='diagrama')
+    
     p.mb-4 Hablemos sobre cada una de ellas:
     
     .row.justify-content-center.mb-4
@@ -213,26 +213,28 @@
           .bloque-texto-h__texto.p-4
             p En la fase innovativa es muy importante la validación previa del producto, servicio o proceso, y para ello la metodología <strong><i>Desing Thinking</i></strong> aporta información relevante para el lanzamiento final de la propuesta. Para la implementación de esta metodología, seguir la ruta de prototipado es la mejor alternativa. De Pablo y Lassa (2017) indican que “Cuando la información se presenta de forma visual, amplifica hasta un 65 % la capacidad de recordar el mensaje” (p.18).
     
-    p.mb-4 El <i>Design Thinking</i> está compuesto por unas fases, la cuales son:
+    p.mb-4 El #[i Design Thinking] está compuesto por unas fases, la cuales son:
    
     figure.mb-4.color-fondo
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura3.png', alt='diagrama')
 
     p.mb-4 Esta metodología resulta ampliamente conocida en el escenario empresarial, además tiene muy buena aplicación para productos, porque permite ver materializada la idea antes de su lanzamiento.
    
-    .bloque-texto-f.pt-4.px-4.mb-5
-      .bloque-texto-f__comillas.mb-4
-        i.fas.fa-quote-left.mt-4
-        i.fas.fa-quote-right
-      h4.text-regular.bloque-texto-f__texto “La gestión de la innovación consiste en algo más que en planificar nuevos productos, servicios, extensiones de marca, inventos tecnológicos o novedades. Consiste también en imaginar, organizar, movilizar y competir de otra forma.
-      .bloque-texto-f__autor.mb-4
-        h3.mb-0(style="text-align:right") Idris Moote  (2014) p. 16 
+    .row.justify-content-center 
+      .col-lg-10         
+        .bloque-texto-f.pt-4.px-4.mb-5
+          .bloque-texto-f__comillas.mb-4
+            i.fas.fa-quote-left.mt-4
+            i.fas.fa-quote-right
+          h4.text-regular.bloque-texto-f__texto “La gestión de la innovación consiste en algo más que en planificar nuevos productos, servicios, extensiones de marca, inventos tecnológicos o novedades. Consiste también en imaginar, organizar, movilizar y competir de otra forma.
+          .bloque-texto-f__autor.mb-4
+            h3.mb-0(style="text-align:right") Idris Moote  (2014) p. 16
 
     .row.justify-content-center.mb-4
       .col-md-7      
         .cajon.color-primario.color-fondo.p-4.mb-4
             p.mb-0 Para finalizar, podemos decir que la innovación puede ser concebida como un proceso estratégico mediante el cual las empresas mejoran sus prácticas y sus productos, logrando generar mayor valor y aspectos diferenciadores en materia de productos y servicios en el mercado. 
-        p.mb-4 Ahora bien, aparece otro concepto que en el contexto que se viene tratando es complementario para entender la dinámica y el funcionamiento del acelerado entorno actual de cambio, <strong>la creatividad</strong>, la cual se estudiará a continuación.
+        p.mb-4 Ahora bien, aparece otro concepto que en el contexto que se viene tratando es complementario para entender la dinámica y el funcionamiento del acelerado entorno actual de cambio, la #[strong creatividad], la cual se estudiará a continuación.
 
       .col-md-5
         figure.mw-sm-350px(style="margin-top: 25px;")

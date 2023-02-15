@@ -37,7 +37,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/texto_destacado/img36.svg')})`}"
       )
       .bloque-texto-g__texto.p-3
-        p En el caso del liderazgo, se concibe como una de las habilidades complementarias más importantes al momento de ejercer como profesional o integrante de una organización. La clave para el ejercicio del liderazgo está en cinco variables que deben confluir: la influencia, los objetivos organizacionales, las personas, el cambio y los líderes-seguidores; esta última, entendiendo que el liderazgo debe ser compartido, no individual
+        p En el caso del liderazgo, se concibe como una de las habilidades complementarias más importantes al momento de ejercer como profesional o integrante de una organización. La clave para el ejercicio del liderazgo se encuentra en cinco variables que deben confluir: la influencia, los objetivos organizacionales, las personas, el cambio y los líderes-seguidores; esta última, entendiendo que el liderazgo debe ser compartido, no individual.
 
     p.mb-4 Las técnicas para ejercer un buen liderazgo y mantener la motivación de un equipo de trabajo son:
     
@@ -54,7 +54,7 @@
         .row.justify-content-center.mb-3
           .bloque-texto-f__avatar
             .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
-              img(src='@/assets/curso/temas/tarjetas/avatar3.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tarjetas/avatar5.svg', alt='Texto que describa la imagen')
         
         p.text-center(style=" margin-top: -15px;") Planificación de las acciones.
         
@@ -62,7 +62,7 @@
         .row.justify-content-center.mb-3
           .bloque-texto-f__avatar
             .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
-              img(src='@/assets/curso/temas/tarjetas/avatar3.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tarjetas/avatar6.svg', alt='Texto que describa la imagen')
         
         p.text-center(style=" margin-top: -15px;") Seguimiento y apoyo al desarrollo del plan de trabajo.
       
@@ -70,7 +70,7 @@
         .row.justify-content-center.mb-3
           .bloque-texto-f__avatar
             .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
-              img(src='@/assets/curso/temas/tarjetas/avatar3.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tarjetas/avatar7.svg', alt='Texto que describa la imagen')
         
         p.text-center(style=" margin-top: -15px;") Generación de un clima y ambiente de confianza.
       
@@ -78,7 +78,7 @@
         .row.justify-content-center.mb-3
           .bloque-texto-f__avatar
             .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
-              img(src='@/assets/curso/temas/tarjetas/avatar3.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tarjetas/avatar8.svg', alt='Texto que describa la imagen')
         
         p.text-center(style=" margin-top: -15px;") Aprendizaje sobre los errores.
       
@@ -86,7 +86,7 @@
         .row.justify-content-center.mb-3
           .bloque-texto-f__avatar
             .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
-              img(src='@/assets/curso/temas/tarjetas/avatar3.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tarjetas/avatar9.svg', alt='Texto que describa la imagen')
         
         p.text-center(style=" margin-top: -15px;") Reconocimiento y diferenciación de los roles en el equipo.
       
@@ -94,56 +94,54 @@
         .row.justify-content-center.mb-3
           .bloque-texto-f__avatar
             .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
-              img(src='@/assets/curso/temas/tarjetas/avatar3.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tarjetas/avatar10.svg', alt='Texto que describa la imagen')
         
         p.text-center(style=" margin-top: -15px;") Insistencia en la unión y cohesión del equipo.
     
     p.mb-4.mt-4 Es importante que estas técnicas sean aplicadas en un ambiente organizacional que proporcione las herramientas para el desempeño óptimo del líder y su equipo.
     p.mb-4 Estas herramientas son:
 
-    SlyderF.mb-4(columnas="col-lg-6 col-xl-4")
-      .tarjeta.carrusel2.p-4
-        .row.justify-content-center.mb-3
-          .bloque-texto-f__avatar
-            .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
+    .tarjeta--container.row
+      .col-md.tarjeta.tarj-color1.p-5
+        .row.justify-content-center.mb-4
+          .col-10
+            figure
               img(src='@/assets/curso/temas/tarjetas/avatar4.svg', alt='Texto que describa la imagen')
-        
-        p.text-center(style=" margin-top: -15px;") Organigrama o estructura organizacional.
+          
+        p.text-center Organigrama o estructura organizacional.
 
-      .tarjeta.carrusel2.p-4
-        .row.justify-content-center.mb-3
-          .bloque-texto-f__avatar
-            .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
-              img(src='@/assets/curso/temas/tarjetas/avatar4.svg', alt='Texto que describa la imagen')
-        
-        p.text-center(style=" margin-top: -15px;") Indicadores de gestión. 
-        
-      .tarjeta.carrusel2.p-4
-        .row.justify-content-center.mb-3
-          .bloque-texto-f__avatar
-            .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
-              img(src='@/assets/curso/temas/tarjetas/avatar4.svg', alt='Texto que describa la imagen')
-        
-        p.text-center(style=" margin-top: -15px;") Políticas de la empresa.
-      
-      .tarjeta.carrusel2.p-4
-        .row.justify-content-center.mb-3
-          .bloque-texto-f__avatar
-            .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
-              img(src='@/assets/curso/temas/tarjetas/avatar4.svg', alt='Texto que describa la imagen')
-        
-        p.text-center(style=" margin-top: -15px;") Descripción de cargos.
-      
-      .tarjeta.carrusel2.p-4
-        .row.justify-content-center.mb-3
-          .bloque-texto-f__avatar
-            .bloque-texto-f__avatar__img(style=" margin-top: -85px;")
-              img(src='@/assets/curso/temas/tarjetas/avatar4.svg', alt='Texto que describa la imagen')
-        
-        p.text-center(style=" margin-top: -15px;") Política de compensación.
-    
+      .col-md.tarjeta.tarj-color2.p-5
+        .row.justify-content-center.mb-4
+          .col-10
+            figure
+              img(src='@/assets/curso/temas/tarjetas/avatar11.svg', alt='Texto que describa la imagen')
+
+        p.text-center Indicadores de gestión. 
+
+      .col-md.tarjeta.tarj-color1.p-5
+        .row.justify-content-center.mb-4
+          .col-10
+            figure
+              img(src='@/assets/curso/temas/tarjetas/avatar12.svg', alt='Texto que describa la imagen')
+        p.text-center Políticas de la empresa.
+
+      .col-md.tarjeta.tarj-color2.p-5
+        .row.justify-content-center.mb-4
+          .col-10
+            figure
+              img(src='@/assets/curso/temas/tarjetas/avatar13.svg', alt='Texto que describa la imagen')
+        p.text-center Descripción de cargos.
+
+      .col-md.tarjeta.tarj-color1.p-5
+        .row.justify-content-center.mb-4
+          .col-10
+            figure
+              img(src='@/assets/curso/temas/tarjetas/avatar14.svg', alt='Texto que describa la imagen')
+        p.text-center.mb-0 Política de compensación.
+
+
     p.mb-4.mt-4 Por otro lado, entender el liderazgo como un mecanismo que potencializa el material del logro de resultados, es importante.
-    p.mb-4 Sin embargo, no todos los líderes tienen el mismo estilo, existen “formas” de ejercer el liderazgo y algunas de ellas son:
+    p.mb-4 #[strong Sin embargo], no todos los líderes tienen el mismo estilo, existen “formas” de ejercer el liderazgo y algunas de ellas son:
 
     .row.justify-content-center.mb-4
       .col-md-10
@@ -206,22 +204,22 @@
            ol.lista-ol
             li 
               span.fas.fa-check(style='color: #f85316')
-              | Intenciones de cooperar
+              | Intenciones de cooperar.
             li 
               span.fas.fa-check(style='color: #f85316')
-              | Comunicación fluida
+              | Comunicación fluida.
             li 
               span.fas.fa-check(style='color: #f85316')
-              | Objetivos compartidos
+              | Objetivos compartidos.
             li 
               span.fas.fa-check(style='color: #f85316')
-              | Fomento de las ideas y la creatividad
+              | Fomento de las ideas y la creatividad.
             li 
               span.fas.fa-check(style='color: #f85316')
-              | Visualización positiva de los objetivo
+              | Visualización positiva de los objetivo.
             li 
               span.fas.fa-check(style='color: #f85316')
-              | Comparte destrezas y habilidades
+              | Comparte destrezas y habilidades.
     
     p.mb-4 Igual a lo explicado en la temática de liderazgo, el trabajo en equipo tiene factores de diferenciación, por eso se presentan algunos tipos relacionados con este modelo de trabajo:
     
@@ -267,24 +265,24 @@
            ol.lista-ol
             li 
               span.fas.fa-check(style='color: #f85316')
-              | Liderazgo efectivo
+              | Liderazgo efectivo.
             li 
               span.fas.fa-check(style='color: #f85316')
-              | Objetivos compartidos bien definidos
+              | Objetivos compartidos bien definidos.
             li 
               span.fas.fa-check(style='color: #f85316')
-              | Comunicación asertiva
+              | Comunicación asertiva.
             li 
               span.fas.fa-check(style='color: #f85316')
-              | Sentido de pertenencia
+              | Sentido de pertenencia.
             li 
               span.fas.fa-check(style='color: #f85316')
-              | Resolución de conflictos
+              | Resolución de conflictos.
             
     .row.justify-content-around.align-items-center.mb-4
       .col-lg-10
         .cajon.color-primario.color-fondo.p-4.mb-4
-          p.mb-0 Recuerde: un trabajo en equipo bien logrado, promueve la eficiencia y la eficacia en los resultados organizacionales, además del aporte que hace al clima organizacional y a la capacidad de resolver los retos y las dificultades que se presentan. Son entonces, los equipos de trabajo, pieza fundamental para el logro de objetivos a la hora de innovar, ser creativos y emprendedores.    
+          p.mb-0 #[b Recuerde]: un trabajo en equipo bien logrado, promueve la eficiencia y la eficacia en los resultados organizacionales, además del aporte que hace al clima organizacional y a la capacidad de resolver los retos y las dificultades que se presentan. Son entonces, los equipos de trabajo, pieza fundamental para el logro de objetivos a la hora de innovar, ser creativos y emprendedores.    
     h3
       i#t_4_2.fas.fa-square.me-3.cuadrado.mt-4 
       |  Los sistemas de innovación  
@@ -333,19 +331,21 @@
 
     p.mb-4 En contextos como el que vivimos, a nivel empresarial, no existen retos y premisas más importantes para la alta dirección que la garantía de ofrecer u ofertar productos y/o servicios de calidad y en constante proceso de innovación. Por ello, la gestión de la calidad se concibe como un paso muy importante para otorgar esa garantía, siendo esta un conjunto de acciones o actividades que propenden por identificar y evitar posibles desviaciones del proceso empresarial (llámese productivo, de servicio o de proceso), con miras a optimizar los recursos y evitar reprocesos y esfuerzos que se materializan en pérdidas para la organización.                
 
-    .tarjeta.color-fondo.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/texto_destacado/icono1.svg")
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              h3.mb-1 Gestión de calidad
-              p.text-small Para profundizar un poco el concepto, lo invitamos a ver el video 
-            .col-sm-auto
-              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=cX8tdwz0hXI')" target="_blank")
-                span(style="color: white") ver video
-                i.fas.fa-angle-right
+    .row.justify-content-center
+      .col-lg-10
+        .tarjeta.color-fondoA.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/temas/texto_destacado/icono1.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-1 Gestión de calidad
+                  p.text-small Para profundizar un poco el concepto, lo invitamos a ver el video 
+                .col-sm-auto
+                  a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=cX8tdwz0hXI')" target="_blank")
+                    span(style="color: white") ver video
+                    i.fas.fa-angle-right
    
     p.mb-4 Una vez se cuenta con la claridad del concepto, surge la inquietud de ¿cómo materializar u operar la gestión de la calidad de manera adecuada en la empresa? La calidad no se trata de hacer un producto o prestar un servicio de manera eficiente, se habla más bien del conjunto de buenas prácticas, procesos y procedimientos para obtener ese producto, bien o servicio, por lo cual es primordial el establecimiento de una cultura empresarial de mejora continua, entendiendo que el resultado esperado depende del compromiso y participación de toda la estructura (desde el cargo más operativo, hasta el más directivo). 
 
@@ -365,9 +365,9 @@
       .bloque-texto-f__comillas.mb-4
         i.fas.fa-quote-left.mt-4
         i.fas.fa-quote-right
-      h4.text-regular.bloque-texto-f__texto Los estándares internacionales ISO aseguran que los productos y servicios son seguros, de confianza y de buena calidad. Para las empresas las normas ISO son herramientas estratégicas que reducen costes, minimizando los excedentes y los errores y mejorando la productividad.
+      h4.text-regular.bloque-texto-f__texto Los estándares internacionales ISO, afianzan que los productos y servicios son seguros, de confianza y de buena calidad. Para las empresas, las normas ISO son herramientas estratégicas que reducen costos, minimizando los excedentes y los errores y mejorando la productividad.
       .bloque-texto-f__autor.mb-4
-        h3.mb-0(style="text-align:right") Cortés Sánchez (2017), pag 30  
+        h3.mb-0(style="text-align:right") Cortés Sánchez (2017), (p.30) 
     
     p.mb-4 Estas normas determinan todos los procedimientos que deben llevarse a cabo durante la actividad empresarial (estructura, procedimientos, recursos a utilizar); la finalidad es dar cumplimiento a las normas de calidad y garantizar el mejor resultado final para los consumidores.
 
@@ -380,19 +380,19 @@
             ol.lista-ol
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Satisfacción del cliente
+                | Satisfacción del cliente.
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Obtención de nuevos clientes
+                | Obtención de nuevos clientes.
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Mejora en los procesos de la empresa
+                | Mejora en los procesos de la empresa.
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Diferenciación de la competencia
+                | Diferenciación de la competencia.
               li 
                 span.fas.fa-check(style='color: #f85316')
-                | Reducción en costos
+                | Reducción en costos.
         
     
     .row.justify-content-around.align-items-center.mb-4

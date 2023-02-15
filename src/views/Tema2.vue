@@ -150,6 +150,10 @@
             h4.mb-3 Servicio
             p.mb-0 Es la actividad mediante la cual se atiende un requerimiento o una necesidad. Es un bien intangible porque no está asociado a productos. Ejemplo: la salud, la educación, etc.    
     
+    h3
+      i#t_2_1.fas.fa-square.me-3.cuadrado.mt-2
+      |  Ecosistema de producto    
+    
     .row.justify-content-center.mb-4.mt-4
       .col-md-5
         figure.mw-sm-350px
@@ -163,6 +167,10 @@
       .col-lg-9
         .cajon.color-primario.color-fondo.p-4.mb-4
           p.mb-0 La creatividad y la innovación pueden aplicarse en todos estos escenarios, de forma tal que permita el mejoramiento y la optimización de resultados a nivel de impacto en el mercado y con el consumidor, traduciéndose eso en mayores utilidades y mejores ventas.     
+    
+    h3
+      i#t_2_1.fas.fa-square.me-3.cuadrado.mt-2
+      |  Economía naranja     
     
     .row.justify-content-center.mb-4.mt-4
       .col-md-7      
@@ -194,42 +202,51 @@
     
     p.mb-4 Artes y patrimonio:
 
-    .row.justify-content-center.mb-4
-      .col-md-8 
-        TabsA.color-acento-contenido.mb-4
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Artes visuales")
-              .row
-                .col-md-12.p-4.color-fondo
-                  p Pintura, escultura, fotografía, video arte y <i>performance</i>. 
-                
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Artes escénicas")
-              .row
-                .col-md-12.p-4.color-fondo
-                  p Conciertos, ópera, circo, orquestas, danza y teatro.  
-                
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Turismo y <br> patrimonio <br> cultural")
-              .row
-                .col-md-12.p-4.color-fondo
-                  p Museos, cocinas tradicionales, artesanías, parques naturales, bibliotecas, archivos, festivales y carnavales.
-              
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Educación")
-              .row
-                .col-md-12.p-4.color-fondo
-                  p Formación en oficios de las artes y el patrimonio, formación en prácticas artísticas, formación en gestión y emprendimiento cultural. 
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Gastronomía")
-              .row
-                .col-md-12.p-4.color-fondo
-                  p Cocinas tradicionales y bebidas alcohólicas tradicionales. 
-              
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Artesanías")
-              .row
-                .col-md-12.p-4.color-fondo
-                  p Indígena, tradicional popular y contemporánea.
-      
-      .col-md-4.col-lg-4(style="margin-top: 80px; ")
-        img(src='@/assets/curso/temas/texto_destacado/img25.png', alt='imagen relacionada')  
+    SlyderF(columnas="col-lg-6 col-xl-4")
+      .tarjeta.custom-tarjeta-avatar.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/texto_destacado/img42.png' alt='AvatarTop')
+        h2.text-center Artes visuales
+        p.text-center Pintura, escultura, fotografía, video arte y #[i performance].
 
-    p.mb-4 Industrias creativas, nuevos medios y <i>software</i> de contenidos:
+      .tarjeta.custom-tarjeta-avatar.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/texto_destacado/img43.png' alt='AvatarTop')
+        h2.text-center Artes escénicas
+        p.text-center Conciertos, ópera, circo, orquestas, danza y teatro.
+
+      .tarjeta.custom-tarjeta-avatar.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/texto_destacado/img44.png' alt='AvatarTop')
+        h2.text-center Turismo y patrimonio cultural
+        p.text-center Museos, cocinas tradicionales, artesanías, parques naturales, bibliotecas, archivos, festivales y carnavales.
+
+      .tarjeta.custom-tarjeta-avatar.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/texto_destacado/img45.png' alt='AvatarTop')
+        h2.text-center Educación
+        p.text-center Formación en oficios de las artes y el patrimonio, formación en prácticas artísticas, formación en gestión y emprendimiento cultural.
+
+      .tarjeta.custom-tarjeta-avatar.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/texto_destacado/img46.png' alt='AvatarTop')
+        h2.text-center Gastronomía
+        p.text-center Cocinas tradicionales y bebidas alcohólicas tradicionales.
+
+      .tarjeta.custom-tarjeta-avatar.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/texto_destacado/img47.png' alt='AvatarTop')
+        h2.text-center Artesanías
+        p.text-center Indígena, tradicional popular y contemporánea. 
+
+    .row.justify-content-center.mb-4.mt-4
+      p.mb-4 Industrias creativas, nuevos medios y <i>software</i> de contenidos:
     
     .row.justify-content-center.mb-4
       .col-md-4.col-lg-4(style="margin-top: 20px; ")

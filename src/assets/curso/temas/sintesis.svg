@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="822" height="512.299" viewBox="0 0 822 512.299">
-  <g id="Grupo_112767" data-name="Grupo 112767" transform="translate(-389 -373)">
+  <g id="Grupo_112867" data-name="Grupo 112867" transform="translate(-389 -373)">
     <path id="Trazado_160208" data-name="Trazado 160208" d="M55.667,23.425,41.209,0V9.976H0V34.911H41.209V46.85Z" transform="translate(823.685 619.044) rotate(90)" fill="#f85316" stroke="#f85316" stroke-miterlimit="10" stroke-width="2"/>
     <line id="Línea_248" data-name="Línea 248" y2="50.604" transform="translate(800.493 431.988)" fill="#fff" stroke="#4752e3" stroke-miterlimit="10" stroke-width="2"/>
     <g id="Grupo_112180" data-name="Grupo 112180" transform="translate(495 499.523)" opacity="0.163">
@@ -22,7 +22,7 @@
       <path id="Trazado_160205-5" data-name="Trazado 160205" d="M16.053,0H593.947C602.813,0,610,5.346,610,11.94V97.865c0,6.594-7.187,11.94-16.053,11.94H16.053C7.187,109.805,0,104.459,0,97.865V11.94C0,5.346,7.187,0,16.053,0Z" transform="translate(0)" fill="none" stroke="#f85316" stroke-width="2"/>
     </g>
     <path id="Trazado_160205-6" data-name="Trazado 160205" d="M21.579,0H798.421A21.551,21.551,0,0,1,820,21.522V176.409a21.551,21.551,0,0,1-21.579,21.522H21.579A21.551,21.551,0,0,1,0,176.409V21.522A21.551,21.551,0,0,1,21.579,0Z" transform="translate(390 686.367)" fill="#3d46c2" stroke="#4752e3" stroke-width="2" opacity="0.148"/>
-    <text id="Sistemas_de_innovación" data-name="Sistemas de innovación" transform="translate(704 872.253)" fill="#12263f" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Sistemas de innovación</tspan></text>
+    <text id="Sistemas" transform="translate(762.333 864.253)" fill="#12263f" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Sistemas</tspan></text>
     <path id="Trazado_158075" data-name="Trazado 158075" d="M3.688,0H159.312C161.349,0,163,2.066,163,4.615V31.385c0,2.549-1.651,4.615-3.688,4.615H3.688C1.651,36,0,33.934,0,31.385V4.615C0,2.066,1.651,0,3.688,0Z" transform="translate(473 785.463)" fill="#3d46c2"/>
     <path id="Trazado_160212" data-name="Trazado 160212" d="M3.688,0H159.312C161.349,0,163,2.066,163,4.615V31.385c0,2.549-1.651,4.615-3.688,4.615H3.688C1.651,36,0,33.934,0,31.385V4.615C0,2.066,1.651,0,3.688,0Z" transform="translate(959.865 785.332)" fill="#3d46c2"/>
     <text id="Liderazgo" transform="translate(519.5 807.963)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Liderazgo</tspan></text>
