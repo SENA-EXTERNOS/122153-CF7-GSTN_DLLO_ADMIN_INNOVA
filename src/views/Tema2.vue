@@ -129,8 +129,8 @@
             figure
               img(data-aos="fade-up-right" src="@/assets/curso/temas/tarjetas/tarjeta1.svg", alt="imagen relacionada")
           .crd_hover_txt--body
-            h4.mb-3 Proceso
-            p.mb-0 Es un conjunto de tareas y procedimientos que se realizan en una empresa para la producción o elaboración de un bien o servicio, o para cumplir con una de las funciones de apoyo de la organización orientadas a su actividad principal. Ejemplo: proceso de elaboración de pan.
+            h4.mb-4 Proceso
+            p.mb-0.mt-3 Es un conjunto de tareas y procedimientos que se realizan en una empresa para la producción o elaboración de un bien o servicio, o para cumplir con una de las funciones de apoyo de la organización orientadas a su actividad principal. Ejemplo: proceso de elaboración de pan.
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -138,7 +138,7 @@
             figure
               img(src="@/assets/curso/temas/tarjetas/tarjeta2.svg", alt="imagen relacionada")
           .crd_hover_txt--body
-            h4.mb-3 Producto
+            h4.mb-4 Producto
             p.mb-0 Es un bien material, cosa o elemento fabricado de manera natural o industrial para satisfacer una necesidad de consumo o utilidad. Ejemplo: celulares, champú, computadores, etc.
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
@@ -147,7 +147,7 @@
             figure
               img(src="@/assets/curso/temas/tarjetas/tarjeta3.svg", alt="imagen relacionada")
           .crd_hover_txt--body
-            h4.mb-3 Servicio
+            h4.mb-4 Servicio
             p.mb-0 Es la actividad mediante la cual se atiende un requerimiento o una necesidad. Es un bien intangible porque no está asociado a productos. Ejemplo: la salud, la educación, etc.    
     
     h3

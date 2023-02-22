@@ -341,7 +341,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Gestión de calidad
-                  p.text-small Para profundizar un poco el concepto, lo invitamos a ver el video 
+                  p Para profundizar un poco el concepto, lo invitamos a ver el video 
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=cX8tdwz0hXI')" target="_blank")
                     span(style="color: white") ver video
