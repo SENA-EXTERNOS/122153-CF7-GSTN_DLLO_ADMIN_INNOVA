@@ -121,13 +121,6 @@ export default {
     {
       tema: 'La creatividad',
       referencia:
-        'Economía Naranja. (s.f.).<em> ABC Economía Naranja.</em> Economía Naranja',
-      tipo: 'Página web',
-      link: 'https://economianaranja.gov.co/abc-economia-naranja/',
-    },
-    {
-      tema: 'La creatividad',
-      referencia:
         'Design Thinking España- (2021).<i> Qué es el brainstorming y para qué sirve</i>(video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=_4OlfGwxydA',
