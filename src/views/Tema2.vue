@@ -45,7 +45,7 @@
       .col-md-4
         img(src='@/assets/curso/temas/texto_destacado/img17.png', alt='imagen relacionada')  
       .col-md-8 
-        TabsA.color-acento-contenido.mb-4
+        TabsB.color-acento-contenido.mb-4
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Originalidad")
               .row
                 .col-md-12.p-4.color-fondo
@@ -251,7 +251,7 @@
       .col-md-4.col-lg-4(style="margin-top: 20px; ")
         img(src='@/assets/curso/temas/texto_destacado/img26.png', alt='imagen relacionada') 
       .col-md-8 
-        TabsA.color-acento-contenido.mb-4
+        TabsB.color-acento-contenido.mb-4
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Medios digitales")
               .row
                 .col-md-12.p-4.color-fondo
@@ -271,7 +271,7 @@
 
     .row.justify-content-center.mb-4
       .col-md-8 
-        TabsA.color-acento-contenido.mb-4
+        TabsB.color-acento-contenido.mb-4
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Editorial")
               .row
                 .col-md-12.p-4.color-fondo

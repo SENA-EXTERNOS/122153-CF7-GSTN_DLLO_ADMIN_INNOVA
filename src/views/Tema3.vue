@@ -20,18 +20,18 @@
       .col-md-3.col-lg-4(style="margin-top: 20px; ")
         img(src='@/assets/curso/temas/texto_destacado/img30.png', alt='imagen relacionada') 
       .col-md-8 
-        TabsA.color-acento-contenido.mb-4
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Emprendimiento <br> social")
+        TabsC.color-acento-contenido.mb-4
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Emprendimiento social")
               .row
                 .col-md-12.p-4.color-fondo
                   p Está orientado a la solución de una problemática social y del impacto positivo a una comunidad, incluso, sin intenciones de lucro económico.  
                 
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Emprendimiento <br> cultural")
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Emprendimiento cultural")
               .row
                 .col-md-12.p-4.color-fondo
                   p Esta modalidad de emprendimiento está muy ligada a la explicación de economía naranja, donde se generan ideas de organizaciones o de empresas culturales, con el propósito de no dejar que se pierda el valor simbólico de los productos y costumbres de un país.   
                 
-            .tarjeta.color-acento-contenido-borde.p-4(titulo="Emprendimiento <br> empresarial")
+            .tarjeta.color-acento-contenido-borde.p-4(titulo="Emprendimiento empresarial")
               .row
                 .col-md-12.p-4.color-fondo
                   p Implica el desarrollo de un producto o negocio, con el fin de generar ingresos para cubrir gastos básicos. Este tipo de emprendimiento ha surgido a partir de crisis económicas que han llevado a las personas a idear propuestas creativas e innovadoras en el mercado. El ser emprendedor tiene sus ventajas en cuanto a la generación de empleos y a la independencia con la que se cuenta al ser su propio jefe.

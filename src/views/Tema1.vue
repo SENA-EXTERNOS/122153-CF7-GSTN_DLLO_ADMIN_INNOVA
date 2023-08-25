@@ -164,7 +164,7 @@
     
     .row.justify-content-center.mb-4
       .col-md-8 
-        TabsA.color-acento-contenido.mb-4
+        TabsB.color-acento-contenido.mb-4
             .tarjeta.color-acento-contenido-borde.p-4(titulo="Idea")
               .row
                 .col-md-12.p-4.color-fondo
