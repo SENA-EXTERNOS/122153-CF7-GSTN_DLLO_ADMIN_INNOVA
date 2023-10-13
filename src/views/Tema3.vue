@@ -81,7 +81,7 @@
               img(data-aos="fade-up-right" src="@/assets/curso/temas/tarjetas/tarjeta5.svg", alt="imagen relacionada")
           .crd_hover_txt--body
             h4.mb-3 Teoría de los rasgos de personalidad
-            p.mb-0 Esta teoría tiene dos supuestos elementales. El primero, determina que el empresario tiene un perfil psicológico distinto del resto de la población., y el segundo, que el empresario de éxito cuenta con un perfil psicológico distinto de los empresarios menos exitosos.
+            p.mb-0 Esta teoría tiene dos supuestos elementales. El primero, determina que el empresario tiene un perfil psicológico distinto del resto de la población, y el segundo, que el empresario de éxito cuenta con un perfil psicológico distinto de los empresarios menos exitosos.
 
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")

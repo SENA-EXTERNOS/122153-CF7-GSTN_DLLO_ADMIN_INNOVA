@@ -15,7 +15,7 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Apreciado aprendiz, bienvenido a este componente formativo, donde se presentarán los conceptos generales de la innovación, así mismo su relación con la creatividad y su impacto en las organizaciones. Independientemente de la profesión, ocupación o perfil, la innovación resulta una temática de gran importancia en la generación de valor del desarrollo de cualquier actividad. Por esta razón, lo invitamos a conocer el contenido y a aprender de este gran universo denominado innovación,<strong> creatividad y emprendimiento</strong>.
-    p.mb-4 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo
+    p.mb-4 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
     
 
     figure

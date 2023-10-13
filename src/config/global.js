@@ -121,9 +121,16 @@ export default {
     {
       tema: 'La creatividad',
       referencia:
-        'Design Thinking España- (2021).<i> Qué es el brainstorming y para qué sirve</i>(video). YouTube.',
+        'Design Thinking España- (2021).<i> Qué es el brainstorming y para qué sirve</i> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=_4OlfGwxydA',
+    },
+    {
+      tema: 'La creatividad',
+      referencia:
+        'Economía Naranja. (s.f.). ABC.<i> Economía Naranja.</i> (video). YouTube.',
+      tipo: 'Página web',
+      link: 'https://www.academia.edu/40009301/ABC_DE_LA_ECONOM%C3%8DA_NARANJA',
     },
   ],
   glosario: [
@@ -133,7 +140,7 @@ export default {
         'puede entenderse como la fabricación de una idea o un concepto, un descubrimiento original que ocasiona la satisfacción del generador de una idea y de los usuarios, o beneficiarios, de su utilidad.',
     },
     {
-      termino: '<em>Desing Thinking</em>',
+      termino: '<em>Design Thinking</em>',
       significado:
         'es un método para la generación de ideas innovadoras que focaliza su eficacia en entender y solucionar las necesidades de los usuarios, clientes o consumidores.',
     },
@@ -148,7 +155,7 @@ export default {
         'hace alusión a la llegada de algo nuevo, de algo que no existía, de modificación, y ha sido muy ligada al ámbito empresarial, concebida como un proceso estratégico.',
     },
     {
-      termino: 'Investigación y el desarrollo (I+D)',
+      termino: 'Investigación y Desarrollo (I+D)',
       significado:
         'es el proceso de investigación en conocimientos técnicos y científicos, con el objetivo de desarrollar nuevos productos, procesos o materiales a partir de tecnologías aplicadas.',
     },
@@ -193,15 +200,15 @@ export default {
     },
     {
       referencia:
-        'Lussier, R. N. y Achuan, C. F.(2016). <em>Liderazgo: teoría, aplicación y desarrollo de habilidades.</em> Cengage Learning',
+        'Lussier, R. N. y Achuan, C. F. (2016). <em>Liderazgo: teoría, aplicación y desarrollo de habilidades.</em> Cengage Learning.',
     },
     {
       referencia:
-        'Moote, I. (2014). <em>DESING THINKING: para la innovación estratégica.</em> Empresa activa.',
+        'Moote, I. (2014). <em>DESIGN THINKING: para la innovación estratégica.</em> Empresa activa.',
     },
     {
       referencia:
-        'Parra Alviz, M., López Posada, L. M. & Rubio Guerrero, G. (2017). <em>Emprendimiento y creatividad: aspectos esenciales para crear empresa.</em> Ecoe Ediciones, Bogotá',
+        'Parra Alviz, M., López Posada, L. M. & Rubio Guerrero, G. (2017). <em>Emprendimiento y creatividad: aspectos esenciales para crear empresa.</em> Ecoe Ediciones, Bogotá.',
     },
     {
       referencia:

@@ -173,7 +173,7 @@
     
     .row.justify-content-center.mb-4.mt-4
       .col-md-7      
-        p De acuerdo al contenido desarrollado en este componente formativo, se trae a colación un concepto que viene fortaleciéndose como parte de la industria creativa. Es la denominada <strong>economía naranja </strong>, conocida como el modelo de desarrollo en el que la creatividad y la diversidad cultural son pilares de transformación social y económica de Colombia como país y como región. Este modelo cuenta con elementos de desarrollo social, económico y cultural; está fundamentado en la creación, producción y distribución de bienes y servicios culturales y creativos, que pueden ser protegidos por los derechos de propiedad intelectual, es decir, cómo se convierten las ideas en dinero. En otras palabras, la economía naranja está basada en creaciones intelectuales de bienes y servicios establecidos en el talento de las personas y en el patrimonio cultural de la humanidad: el arte, el diseño, los videojuegos, las películas y la artesanía, generan un valor agregado en gran proporción por la generación de ideas creativas que intervienen para su desarrollo.
+        p De acuerdo al contenido desarrollado en este componente formativo, se trae a colación un concepto que viene fortaleciéndose como parte de la industria creativa. Es la denominada <strong>economía naranja</strong>, conocida como el modelo de desarrollo en el que la creatividad y la diversidad cultural son pilares de transformación social y económica de Colombia como país y como región. Este modelo cuenta con elementos de desarrollo social, económico y cultural; está fundamentado en la creación, producción y distribución de bienes y servicios culturales y creativos, que pueden ser protegidos por los derechos de propiedad intelectual, es decir, cómo se convierten las ideas en dinero. En otras palabras, la economía naranja está basada en creaciones intelectuales de bienes y servicios establecidos en el talento de las personas y en el patrimonio cultural de la humanidad: el arte, el diseño, los videojuegos, las películas y la artesanía, generan un valor agregado en gran proporción por la generación de ideas creativas que intervienen para su desarrollo.
       .col-md-5
         figure.mw-sm-350px(style="margin-top: 40px;")
           img(src='@/assets/curso/temas/texto_destacado/img24.png', alt='imagen relacionada')
@@ -202,42 +202,42 @@
     p.mb-4 Artes y patrimonio:
 
     SlyderF(columnas="col-lg-6 col-xl-4")
-      .tarjeta.custom-tarjeta-avatar.p-4
+      .tarjeta.custom-tarjeta-avatar.h-100.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/texto_destacado/img42.png' alt='AvatarTop')
         h2.text-center Artes visuales
         p.text-center Pintura, escultura, fotografía, video arte y #[i performance].
 
-      .tarjeta.custom-tarjeta-avatar.p-4
+      .tarjeta.custom-tarjeta-avatar.h-100.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/texto_destacado/img43.png' alt='AvatarTop')
         h2.text-center Artes escénicas
         p.text-center Conciertos, ópera, circo, orquestas, danza y teatro.
 
-      .tarjeta.custom-tarjeta-avatar.p-4
+      .tarjeta.custom-tarjeta-avatar.h-100.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/texto_destacado/img44.png' alt='AvatarTop')
         h2.text-center Turismo y patrimonio cultural
         p.text-center Museos, cocinas tradicionales, artesanías, parques naturales, bibliotecas, archivos, festivales y carnavales.
 
-      .tarjeta.custom-tarjeta-avatar.p-4
+      .tarjeta.custom-tarjeta-avatar.h-100.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/texto_destacado/img45.png' alt='AvatarTop')
         h2.text-center Educación
         p.text-center Formación en oficios de las artes y el patrimonio, formación en prácticas artísticas, formación en gestión y emprendimiento cultural.
 
-      .tarjeta.custom-tarjeta-avatar.p-4
+      .tarjeta.custom-tarjeta-avatar.h-100.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/texto_destacado/img46.png' alt='AvatarTop')
         h2.text-center Gastronomía
         p.text-center Cocinas tradicionales y bebidas alcohólicas tradicionales.
 
-      .tarjeta.custom-tarjeta-avatar.p-4
+      .tarjeta.custom-tarjeta-avatar.h-100.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/texto_destacado/img47.png' alt='AvatarTop')

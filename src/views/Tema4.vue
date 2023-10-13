@@ -102,7 +102,7 @@
     p.mb-4 Estas herramientas son:
 
     .tarjeta--container.row
-      .col-md.tarjeta.tarj-color1.p-5
+      .col-lg.col-4.col-6.mb-lg-0.mb-4.h-100.tarjeta.tarj-color1.p-5
         .row.justify-content-center.mb-4
           .col-10
             figure
@@ -110,7 +110,7 @@
           
         p.text-center Organigrama o estructura organizacional.
 
-      .col-md.tarjeta.tarj-color2.p-5
+      .col-lg.col-4.col-6.mb-lg-0.mb-4.h-100.tarjeta.tarj-color2.p-5
         .row.justify-content-center.mb-4
           .col-10
             figure
@@ -118,21 +118,21 @@
 
         p.text-center Indicadores de gestión. 
 
-      .col-md.tarjeta.tarj-color1.p-5
+      .col-lg.col-4.col-6.mb-lg-0.mb-4.h-100.tarjeta.tarj-color1.p-5
         .row.justify-content-center.mb-4
           .col-10
             figure
               img(src='@/assets/curso/temas/tarjetas/avatar12.svg', alt='Texto que describa la imagen')
         p.text-center Políticas de la empresa.
 
-      .col-md.tarjeta.tarj-color2.p-5
+      .col-lg.col-4.col-6.mb-lg-0.mb-4.h-100.tarjeta.tarj-color2.p-5
         .row.justify-content-center.mb-4
           .col-10
             figure
               img(src='@/assets/curso/temas/tarjetas/avatar13.svg', alt='Texto que describa la imagen')
         p.text-center Descripción de cargos.
 
-      .col-md.tarjeta.tarj-color1.p-5
+      .col-lg.col-4.col-6.mb-lg-0.mb-4.h-100.tarjeta.tarj-color1.p-5
         .row.justify-content-center.mb-4
           .col-10
             figure
@@ -172,7 +172,7 @@
 
           .row(titulo="Liderazgo pro las personas")
             .col-md-12.mb-4.mb-md-0
-              p Tiene la capacidad de hacer crecer exponencialmente a su equipo identificando la personalidad y particularidades de los integrantes de su equipo.
+              p Tiene la capacidad de hacer crecer exponencialmente a su equipo identificando la personalidad y particularidades de los integrantes.
 
           .row(titulo="Liderazgo orientado a las tareas")
             .col-md-12.mb-4.mb-md-0

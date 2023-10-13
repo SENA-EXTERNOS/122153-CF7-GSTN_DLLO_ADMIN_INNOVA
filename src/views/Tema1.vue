@@ -91,7 +91,7 @@
     .row.justify-content-around.align-items-center.mb-4
       .col-lg-9
         .cajon.color-acento-botones.color-fondo-secundario.p-4.mt-4
-          p.mb-0 A continuación, se presenta una breve explicación de los tipos de estrategias de innovación que van encaminadas a establecer una postura empresarial importante frente al mercado    
+          p.mb-0 A continuación, se presenta una breve explicación de los tipos de estrategias de innovación que van encaminadas a establecer una postura empresarial importante frente al mercado.
     
     p.mb-4.mt-4 Estas estrategias son:
 
@@ -211,9 +211,9 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/texto_destacado/img13.png')})`}"
             )   
           .bloque-texto-h__texto.p-4
-            p En la fase innovativa es muy importante la validación previa del producto, servicio o proceso, y para ello la metodología <strong><i>Desing Thinking</i></strong> aporta información relevante para el lanzamiento final de la propuesta. Para la implementación de esta metodología, seguir la ruta de prototipado es la mejor alternativa. De Pablo y Lassa (2017) indican que “Cuando la información se presenta de forma visual, amplifica hasta un 65 % la capacidad de recordar el mensaje” (p.18).
+            p En la fase innovativa es muy importante la validación previa del producto, servicio o proceso, y para ello la metodología <strong><i>Design Thinking</i></strong> aporta información relevante para el lanzamiento final de la propuesta. Para la implementación de esta metodología, seguir la ruta de prototipado es la mejor alternativa. De Pablo y Lassa (2017) indican que “Cuando la información se presenta de forma visual, amplifica hasta un 65 % la capacidad de recordar el mensaje” (p.18).
     
-    p.mb-4 El #[i Design Thinking] está compuesto por unas fases, la cuales son:
+    p.mb-4 El #[i Design Thinking] está compuesto por unas fases, las cuales son:
    
     figure.mb-4.color-fondo
           img(data-aos="flip-left" src='@/assets/curso/temas/figuras/figura3.png', alt='diagrama')
