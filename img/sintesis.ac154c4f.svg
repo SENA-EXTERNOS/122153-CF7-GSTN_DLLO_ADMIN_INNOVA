@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="822" height="512.299" viewBox="0 0 822 512.299">
+  <g id="Grupo_112867" data-name="Grupo 112867" transform="translate(-389 -373)">
+    <path id="Trazado_160208" data-name="Trazado 160208" d="M55.667,23.425,41.209,0V9.976H0V34.911H41.209V46.85Z" transform="translate(823.685 619.044) rotate(90)" fill="#f85316" stroke="#f85316" stroke-miterlimit="10" stroke-width="2"/>
+    <line id="Línea_248" data-name="Línea 248" y2="50.604" transform="translate(800.493 431.988)" fill="#fff" stroke="#4752e3" stroke-miterlimit="10" stroke-width="2"/>
+    <g id="Grupo_112180" data-name="Grupo 112180" transform="translate(495 499.523)" opacity="0.163">
+      <path id="Trazado_160205" data-name="Trazado 160205" d="M16.053,0H593.947C602.813,0,610,5.346,610,11.94V97.865c0,6.594-7.187,11.94-16.053,11.94H16.053C7.187,109.805,0,104.459,0,97.865V11.94C0,5.346,7.187,0,16.053,0Z" transform="translate(0)" fill="#f85316" stroke="#f85316" stroke-width="2"/>
+    </g>
+    <text id="Hacer_las_cosas_de_manera_diferente" data-name="Hacer las cosas de manera diferente" transform="translate(668.928 527.578)" fill="#12263f" font-size="15" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Hacer las cosas de manera diferente</tspan></text>
+    <g id="Grupo_112177" data-name="Grupo 112177" transform="translate(518.097 546.959)">
+      <path id="Trazado_160205-2" data-name="Trazado 160205" d="M4.392,0H162.512A4.174,4.174,0,0,1,166.9,3.915V32.085A4.174,4.174,0,0,1,162.512,36H4.392A4.174,4.174,0,0,1,0,32.085V3.915A4.174,4.174,0,0,1,4.392,0Z" fill="#fff" stroke="#4752e3" stroke-width="2"/>
+    </g>
+    <g id="Grupo_112178" data-name="Grupo 112178" transform="translate(715.292 546.959)">
+      <path id="Trazado_160205-3" data-name="Trazado 160205" d="M4.392,0H162.512A4.174,4.174,0,0,1,166.9,3.915V32.085A4.174,4.174,0,0,1,162.512,36H4.392A4.174,4.174,0,0,1,0,32.085V3.915A4.174,4.174,0,0,1,4.392,0Z" fill="#fff" stroke="#4752e3" stroke-width="2"/>
+    </g>
+    <g id="Grupo_112179" data-name="Grupo 112179" transform="translate(915 547.392)">
+      <path id="Trazado_160205-4" data-name="Trazado 160205" d="M4.392,0H162.512A4.174,4.174,0,0,1,166.9,3.915V32.085A4.174,4.174,0,0,1,162.512,36H4.392A4.174,4.174,0,0,1,0,32.085V3.915A4.174,4.174,0,0,1,4.392,0Z" fill="#fff" stroke="#4752e3" stroke-width="2"/>
+    </g>
+    <text id="Producto" transform="translate(565.503 570.392)" fill="#12263f" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Producto</tspan></text>
+    <text id="Proceso" transform="translate(771.272 570.392)" fill="#12263f" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Proceso</tspan></text>
+    <text id="Servicio" transform="translate(976.89 570.392)" fill="#12263f" font-size="15" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Servicio</tspan></text>
+    <g id="Grupo_112183" data-name="Grupo 112183" transform="translate(495 499.523)" opacity="0.35">
+      <path id="Trazado_160205-5" data-name="Trazado 160205" d="M16.053,0H593.947C602.813,0,610,5.346,610,11.94V97.865c0,6.594-7.187,11.94-16.053,11.94H16.053C7.187,109.805,0,104.459,0,97.865V11.94C0,5.346,7.187,0,16.053,0Z" transform="translate(0)" fill="none" stroke="#f85316" stroke-width="2"/>
+    </g>
+    <path id="Trazado_160205-6" data-name="Trazado 160205" d="M21.579,0H798.421A21.551,21.551,0,0,1,820,21.522V176.409a21.551,21.551,0,0,1-21.579,21.522H21.579A21.551,21.551,0,0,1,0,176.409V21.522A21.551,21.551,0,0,1,21.579,0Z" transform="translate(390 686.367)" fill="#3d46c2" stroke="#4752e3" stroke-width="2" opacity="0.148"/>
+    <text id="Sistemas" transform="translate(762.333 864.253)" fill="#12263f" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Sistemas</tspan></text>
+    <path id="Trazado_158075" data-name="Trazado 158075" d="M3.688,0H159.312C161.349,0,163,2.066,163,4.615V31.385c0,2.549-1.651,4.615-3.688,4.615H3.688C1.651,36,0,33.934,0,31.385V4.615C0,2.066,1.651,0,3.688,0Z" transform="translate(473 785.463)" fill="#3d46c2"/>
+    <path id="Trazado_160212" data-name="Trazado 160212" d="M3.688,0H159.312C161.349,0,163,2.066,163,4.615V31.385c0,2.549-1.651,4.615-3.688,4.615H3.688C1.651,36,0,33.934,0,31.385V4.615C0,2.066,1.651,0,3.688,0Z" transform="translate(959.865 785.332)" fill="#3d46c2"/>
+    <text id="Liderazgo" transform="translate(519.5 807.963)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Liderazgo</tspan></text>
+    <line id="Línea_251" data-name="Línea 251" x2="78.181" transform="translate(636.301 802.363)" fill="none" stroke="#3d46c2" stroke-width="2" stroke-dasharray="5"/>
+    <line id="Línea_252" data-name="Línea 252" x2="78.181" transform="translate(881.531 802.363)" fill="none" stroke="#3d46c2" stroke-width="2" stroke-dasharray="5"/>
+    <text id="Trabajo_en_equipo" data-name="Trabajo en equipo" transform="translate(976.409 808.336)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Trabajo en equipo</tspan></text>
+    <g id="Grupo_112181" data-name="Grupo 112181" transform="translate(714.921 771.77)">
+      <g id="Elipse_5383" data-name="Elipse 5383" transform="translate(-0.001 0.001)" fill="#3d46c2" stroke="#3d46c2" stroke-width="2">
+        <ellipse cx="83.452" cy="30.593" rx="83.452" ry="30.593" stroke="none"/>
+        <ellipse cx="83.452" cy="30.593" rx="82.452" ry="29.593" fill="none"/>
+      </g>
+    </g>
+    <text id="Estrategias" transform="translate(757.579 806.963)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Estrategias</tspan></text>
+    <rect id="Rectángulo_40700" data-name="Rectángulo 40700" width="202.041" height="36" rx="5" transform="translate(699.334 711.001)" fill="none" stroke="#f85316" stroke-miterlimit="10" stroke-width="2"/>
+    <rect id="Rectángulo_40699" data-name="Rectángulo 40699" width="202.041" height="36" rx="5" transform="translate(699.333 712)" fill="#ff642b"/>
+    <text id="Gestión_de_la_calidad" data-name="Gestión de la calidad" transform="translate(725.333 736)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Gestión de la calidad</tspan></text>
+    <line id="Línea_249" data-name="Línea 249" x1="237.101" y1="50.505" transform="translate(563.833 432.5)" fill="none" stroke="#3d46c2" stroke-width="2"/>
+    <line id="Línea_250" data-name="Línea 250" y1="50.505" x2="247.898" transform="translate(800.935 432.5)" fill="none" stroke="#3d46c2" stroke-width="2"/>
+    <g id="Grupo_112174" data-name="Grupo 112174" transform="translate(494.999 373.041)">
+      <g id="Elipse_5381" data-name="Elipse 5381" transform="translate(0 0.001)" fill="#75b62f" stroke="#f85316" stroke-width="2" opacity="0.35">
+        <ellipse cx="69.45" cy="29.973" rx="69.45" ry="29.973" stroke="none"/>
+        <ellipse cx="69.45" cy="29.973" rx="68.45" ry="28.973" fill="none"/>
+      </g>
+      <g id="Elipse_5383-2" data-name="Elipse 5383" transform="translate(0 0.001)" fill="none" stroke="#75b62f" stroke-width="2">
+        <ellipse cx="69.45" cy="29.973" rx="69.45" ry="29.973" stroke="none"/>
+        <ellipse cx="69.45" cy="29.973" rx="68.45" ry="28.973" fill="none"/>
+      </g>
+    </g>
+    <g id="Grupo_112187" data-name="Grupo 112187" transform="translate(730.515 372.999)">
+      <g id="Elipse_5381-2" data-name="Elipse 5381" transform="translate(0 0.001)" fill="#75b62f" stroke="#f85316" stroke-width="2" opacity="0.35">
+        <ellipse cx="69.45" cy="29.973" rx="69.45" ry="29.973" stroke="none"/>
+        <ellipse cx="69.45" cy="29.973" rx="68.45" ry="28.973" fill="none"/>
+      </g>
+      <g id="Elipse_5383-3" data-name="Elipse 5383" transform="translate(0 0.001)" fill="none" stroke="#75b62f" stroke-width="2">
+        <ellipse cx="69.45" cy="29.973" rx="69.45" ry="29.973" stroke="none"/>
+        <ellipse cx="69.45" cy="29.973" rx="68.45" ry="28.973" fill="none"/>
+      </g>
+    </g>
+    <g id="Grupo_112188" data-name="Grupo 112188" transform="translate(966.1 373.041)">
+      <g id="Elipse_5381-3" data-name="Elipse 5381" transform="translate(0 0.001)" fill="#75b62f" stroke="#f85316" stroke-width="2" opacity="0.35">
+        <ellipse cx="69.45" cy="29.973" rx="69.45" ry="29.973" stroke="none"/>
+        <ellipse cx="69.45" cy="29.973" rx="68.45" ry="28.973" fill="none"/>
+      </g>
+      <g id="Elipse_5383-4" data-name="Elipse 5383" transform="translate(0 0.001)" fill="none" stroke="#75b62f" stroke-width="2">
+        <ellipse cx="69.45" cy="29.973" rx="69.45" ry="29.973" stroke="none"/>
+        <ellipse cx="69.45" cy="29.973" rx="68.45" ry="28.973" fill="none"/>
+      </g>
+    </g>
+    <text id="Innovación" transform="translate(526.999 408)" fill="#12263f" font-size="15" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Innovación</tspan></text>
+    <text id="Creatividad" transform="translate(759.208 408)" fill="#12263f" font-size="15" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Creatividad</tspan></text>
+    <text id="Emprendimiento" transform="translate(979.176 408)" fill="#12263f" font-size="15" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Emprendimiento</tspan></text>
+  </g>
+</svg>
